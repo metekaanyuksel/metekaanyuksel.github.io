@@ -1,0 +1,110 @@
+---
+layout: default
+pagination: 
+  enabled: true
+---
+<div class="home">
+
+<div class="site-header-container {% if site.cover %}has-cover{% endif %}" {% if site.cover %}style="background-image: url({{ site.cover | prepend: site.baseurl }});"{% endif %}>
+  <div class="scrim {% if site.cover %}has-cover{% endif %}">
+    <header class="site-header">
+      <h1 class="title">{{ site.title }}</h1>
+      {% if site.subtitle %}<p class="subtitle">{{ site.subtitle }}</p>{% endif %}
+    </header>
+  </div>
+</div>
+
+<style>
+img {
+  float:left;
+}
+</style>
+
+<style>
+  .space-before {
+    margin-top: 20px; /* Adjust the value as needed */
+  }
+</style>
+
+<!--<div class="wrapper">
+<ul class="post-list">
+  {% for post in paginator.posts %}
+  <li>
+    <h2>
+      <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+    </h2>
+    <section class="post-excerpt" itemprop="description">
+      <p>{{ post.content | strip_html | truncatewords: 50 }}</p>
+    </section>
+    <section class="post-meta">
+      <div class="post-date">{{ post.date | date: "%B %-d, %Y" }}</div>
+      <div class="post-categories">
+      {% if post.categories.size > 0 %}in {% for cat in post.categories %}
+        {% if site.jekyll-archives %}
+        <a href="{{ site.baseurl }}/category/{{ cat }}">{{ cat | capitalize }}</a>{% if forloop.last == false %}, {% endif %}
+        {% else %}
+        <a href="{{ site.baseurl }}/posts/#{{ cat }}">{{ cat | capitalize }}</a>{% if forloop.last == false %}, {% endif %}
+        {% endif %}
+      {% endfor %}{% endif %}
+      </div>
+    </section>
+  </li>
+  {% if forloop.last == false %}
+  <hr>
+  {% endif %}
+  {% endfor %}
+</ul>-->
+
+<div class="wrapper">
+<body>
+
+  <!--<h1> <center> Welcome! </center> </h1>-->
+  <p> I am a 2nd year PhD student at the University of Toronto, in the Department of Ecology & Evolutionary Biology. I am co-supervised by Nicole Mideo and Matt Osmond. </p>
+  <p> <img src="/assets/mete_to.jpg" alt="Mete Pic" style="width:200px;margin-right:20px;"> </p> In my work, I combine mathematical modeling, genomics, simulation-based inference, and other tools to answer questions in evolutionary genetics, ecology, and epidemiology. My interests include zoonotic spillover emergence, i.e., the process by which animal pathogens jump species boundaries to infect and transmit between humans; patterns, causes, and consequences of pathogen recombination; recombination landscape evolution; and inference from genomic data. My current work combines several of these interests. For example, in one of my PhD chapters, I develop theory to predict in what host taxa (e.g., short- vs long- lived species) recombination between pathogen genotypes is most extensive, and test predictions of the theory using HPAI sequence data. Outside of science, I enjoy podcasts, cooking, spending time outdoors, and exploring the many neighborhoods of Toronto!
+  <br>
+  <p class="space-before"> If you want to learn more about me or what I am up to, shoot me an <a href="mete.yuksel@mail.utoronto.ca">email</a> or check out <a href="/assets/CV.pdf" target="_blank">my CV!</a> </p>
+  </body>
+</div>
+
+<!--<nav class="pagination" role="navigation">
+	<p>
+    {% if paginator.previous_page %}
+			{% if paginator.page == 2 %}
+			<a class="newer-posts" href="{{ site.baseurl }}{{ paginator.previous_page_path }}">
+        <span class="fa-stack fa-lg">
+          <i class="fa fa-square fa-stack-2x"></i>
+          <i class="fa fa-angle-double-left fa-stack-1x fa-inverse"></i>
+        </span>
+      </a>
+			{% else %}
+			<a class="newer-posts" href="{{ site.baseurl }}{{ paginator.next_page_path }}">
+				<span class="fa-stack fa-lg">
+					<i class="fa fa-square fa-stack-2x"></i>
+					<i class="fa fa-angle-double-left fa-stack-1x fa-inverse"></i>
+				</span>
+			</a>
+			{% endif %}
+		{% else %}
+		<span class="fa-stack fa-lg">
+      <i class="fa fa-square fa-stack-2x"></i>
+      <i class="fa fa-angle-double-left fa-stack-1x fa-inverse"></i>
+    </span>
+		{% endif %}
+		<span class="page-number">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+		{% if paginator.next_page %}
+		<a class="newer-posts" href="{{ site.baseurl }}{{ paginator.next_page_path }}">
+      <span class="fa-stack fa-lg">
+        <i class="fa fa-square fa-stack-2x"></i>
+        <i class="fa fa-angle-double-right fa-stack-1x fa-inverse"></i>
+      </span>
+    </a>
+		{% else %}
+		<span class="fa-stack fa-lg">
+      <i class="fa fa-square fa-stack-2x"></i>
+      <i class="fa fa-angle-double-right fa-stack-1x fa-inverse"></i>
+    </span>
+		{% endif %}
+	</p>
+</nav>-->
+
+</div>
