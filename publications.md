@@ -7,6 +7,12 @@ main_nav: true
 
 See my Google Scholar [here](https://scholar.google.ca/citations?user=MOXRpukAAAAJ&hl=en&oi=ao)!
 
+<br>
+
+<img src="/assets/birdmath.jpg" align="left" style="width: 100%; max-width: none;"> 
+
+<br>
+
 <img src="/assets/spillcombinavoir.png" align="left" style="width: 50%; margin-right: 5%;"> **Yuksel, M. K.**, Osmond, M. M., & Mideo, N. Host constraints on pathogen recombination and emergence. In prep.
 
 <br>
