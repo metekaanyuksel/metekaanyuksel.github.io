@@ -5,6 +5,10 @@ permalink: /pubs/
 main_nav: true
 ---
 
+<img src="/assets/birdmath.jpg" align="left" style="width: 100%; max-width: none;">
+
+<br>
+
 See my Google Scholar [here](https://scholar.google.ca/citations?user=MOXRpukAAAAJ&hl=en&oi=ao)!
 
 <br>
