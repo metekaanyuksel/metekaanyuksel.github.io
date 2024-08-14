@@ -8,11 +8,11 @@ main_nav: true
 <img src="/assets/birdmath.jpg" align="left" style="width: 100%; max-width: none;">
 
 <br>
-
+&nbsp;
 <br>
 <br>
 
-<img src="/assets/spillcombinavoir.png" align="left" style="width: 50%; margin-right: 5%;"> **Yuksel, M. K.**, Osmond, M. M., & Mideo, N. Host constraints on pathogen recombination and emergence. In prep.
+<img src="/assets/spillcombinavoir.png" align="left" style="width: 50%; margin-right: 5%;"> **Yuksel, M. K.**, Osmond, M. M., & Mideo, N. Host constraints on viral recombination and emergence. In prep.
 
 <br>
 <br>
