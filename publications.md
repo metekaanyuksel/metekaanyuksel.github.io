@@ -17,7 +17,7 @@ main_nav: true
 <br>
 <br>
 
-<img src="/assets/CRRs.png" align="right" style="width: 20%; margin-right: 2.5%;"> Keefer, M., **Yuksel, M. K.**, & Caudill, C. Assessing the role of juvenile life history diversity and adult translocation on cohort productivity in a Chinook Salmon population. Submitted to *Fisheries*.
+<img src="/assets/CRRs.png" align="right" style="width: 30%; margin-right: 2.5%;"> Keefer, M., **Yuksel, M. K.**, & Caudill, C. Assessing the role of juvenile life history diversity and adult translocation on cohort productivity in a Chinook Salmon population. Submitted to *Fisheries*.
 
 <br>
 <br>
