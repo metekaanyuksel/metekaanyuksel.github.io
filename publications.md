@@ -12,12 +12,12 @@ main_nav: true
 <br>
 <br>
 
-<img src="/assets/spillcombinavoir.png" align="left" style="width: 50%; margin-right: 5%;"> **Yuksel, M. K.**, Osmond, M. M., & Mideo, N. Host constraints on viral recombination and emergence. In prep.
+<img src="/assets/spillcombinavoir.png" align="left" style="width: 50%; margin-right: 5%;"> **Yuksel, M. K.**, Osmond, M. M., & Mideo, N. Host constraints on viral recombination and evolutionary emergence. In preparation for *Evolution Letters*.
 
 <br>
 <br>
 
-Keefer, M., **Yuksel, M. K.**, & Caudill, C. Decision Support Modeling for Outplanting Adult Chinook Salmon in the Santiam River Basin (Technical Report 2022-1 for US Army Corps of Engineers).
+Keefer, M., **Yuksel, M. K.**, & Caudill, C. Assessing the role of juvenile life history diversity and adult translocation on cohort productivity in a Chinook Salmon population. Submitted to *Fisheries*.
 
 <br>
 
