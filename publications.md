@@ -12,12 +12,12 @@ main_nav: true
 <br>
 <br>
 
-<img src="/assets/spillcombinavoir.png" align="left" style="width: 50%; margin-right: 5%;"> **Yuksel, M. K.**, Osmond, M. M., & Mideo, N. Host constraints on viral recombination and evolutionary emergence. In preparation for *Evolution Letters*.
+<img src="/assets/spillcombinavoir.png" align="left" style="width: 50%; margin-right: 5%;"> **Yuksel, M. K.**, Osmond, M. M., & Mideo, N. Elevated viral recombination in short-lived hosts. In preparation for *Proc B*.
 
 <br>
 <br>
 
-<img src="/assets/chinook.png" align="right" style="width: 50%; margin-right: 5%;"> Keefer, M., **Yuksel, M. K.**, & Caudill, C. Assessing the role of juvenile life history diversity and adult translocation on cohort productivity in a Chinook Salmon population. Submitted to *Fisheries*.
+<img src="/assets/chinook.png" align="right" style="width: 50%; margin-right: 5%;"> Keefer, M., **Yuksel, M. K.**, & Caudill, C. Assessing the role of juvenile life history diversity and adult translocation on cohort productivity in a Chinook Salmon population. In revision at *Fisheries*.
 
 <br>
 <br>
