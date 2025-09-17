@@ -5,7 +5,7 @@ date:   2025-09-17
 author: Mete Yuksel
 categories: musings
 tags:	avian influenza reassortment
-cover:  "/assets/ducks_dc.png"
+cover:  "/assets/i-contain-bird.jpeg"
 ---
 
 ## Just trying this out
