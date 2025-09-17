@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "I contain bird"
-date:   2015-04-18T14:25:52-05:00
-categories: Jekyll
+date:   2025-09-17
+author: Ben Centra
 tags:	avian influenza reassortment
-cover:  "/assets/instacode.png"
+cover:  "/assets/ducks_dc.png"
 ---
 
 ## Just trying this out
