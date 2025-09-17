@@ -6,6 +6,7 @@ main_nav: true
 ---
 
 <img src="/assets/bee.jpeg" align="left" style="width: 100%; max-width: none;"> 
+<br><br>
 
 {% for category in site.categories %}
   {% capture cat %}{{ category | first }}{% endcapture %}
