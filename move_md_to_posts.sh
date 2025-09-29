@@ -1,25 +1,22 @@
-#!/bin/bash
-
-QMD_DIR="$HOME/metekaanyuksel.github.io/qmd"
-POSTS_DIR="$HOME/metekaanyuksel.github.io/_posts"
-
-echo "Cleaning $QMD_DIR to keep only .qmd files ..."
-find "$QMD_DIR" -mindepth 1 ! -name '*.qmd' -exec rm -rf {} +
-echo "Non-.qmd files and directories removed from $QMD_DIR."
-
-mkdir -p "$POSTS_DIR"
-
-for file in "$QMD_DIR"/*.qmd; do
-  echo "Rendering $file to markdown..."
-
-  quarto render "$file"
-
-  basefile=$(basename "$file" .qmd)
-
-  if [ -f "$QMD_DIR/$basefile.md" ]; then
-    mv "$QMD_DIR/$basefile.md" "$POSTS_DIR/"
-    echo "Moved $basefile.md to _posts"
-  else
-    echo "Warning: $basefile.md not found after rendering."
-  fi
-done
+_config.yml
+_includes
+_layouts
+_posts
+_sass
+assets
+circle.yml
+css
+feed.xml
+Gemfile
+Gemfile.lock
+index.html
+LICENSE.md
+move_md_to_posts.sh
+posts.md
+publications.md
+qmd
+README.md
+render-blog.sh
+research.md
+stackbit.yaml
+teaching.md
