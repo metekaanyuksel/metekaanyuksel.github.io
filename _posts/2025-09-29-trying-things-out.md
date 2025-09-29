@@ -6,4 +6,4 @@ author: Mete Yuksel
 categories: musings
 ---
 
-## Just trying this out
+The blog is making a comeback! I'm hoping to use this space to share thoughts about things.
