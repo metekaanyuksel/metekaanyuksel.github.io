@@ -5,6 +5,7 @@ categories: birds
 format:
   md:
     variant: gfm
+    preserve-headers: true
 ---
 
 ## Trying this blog thing out
