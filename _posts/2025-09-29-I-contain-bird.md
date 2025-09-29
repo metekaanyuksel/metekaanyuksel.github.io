@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "I Contain Bird"
+date:   2025-09-29
+author: Mete Yuksel
+categories: musings
+---
 # I contain bird
 
 
