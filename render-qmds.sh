@@ -18,14 +18,16 @@ for file in "$QMD_DIR"/*.qmd; do
   # Extract date and title from filename if formatted like YYYY-MM-DD-title.qmd
   if [[ "$base" =~ ^([0-9]{4}-[0-9]{2}-[0-9]{2})-(.*)$ ]]; then
     date="${BASH_REMATCH[1]}"
-    title="${BASH_REMATCH[2]}"
+    raw_title="${BASH_REMATCH[2]}"
   else
     date=$(date +%Y-%m-%d)
-    title="$base"
+    raw_title="$base"
   fi
 
   # Format title: replace dashes with spaces
-  title=$(echo "$title" | sed 's/-/ /g')
+  title=$(echo "$raw_title" | sed 's/-/ /g')
+  # Format for cover image: replace spaces with dashes
+  cover_title=$(echo "$title" | sed 's/ /-/g')
 
   mdfile="$QMD_DIR/$base.md"
   postfile="$POSTS_DIR/${base}.md"
@@ -38,7 +40,7 @@ title:  "$title"
 date:   $date
 author: $AUTHOR
 categories: $CATEGORY
-cover:  "/assets/$title.jpeg"
+cover:  "/assets/${cover_title}.jpeg"
 ---
 EOF
 
