@@ -18,7 +18,11 @@ Science!
 ## Fiddling
 
 ```{r}
+pdf("~/metekaanyuksel.github.io/assets/basic_plot.pdf", width = 7, height = 5)
 plot(c(1,2),c(4,5), type = "l")
+dev.off()
 ```
+
+[plot](/assets/basic_plot.pdf)
 
 ### Galavanting
