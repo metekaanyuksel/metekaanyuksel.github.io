@@ -3,9 +3,6 @@ title: "I contain bird"
 format:
   md:
     variant: gfm
-    theme: cosmo
-    toc: true 
-    toc-location: right
 ---
 
 ## Trying this blog thing out

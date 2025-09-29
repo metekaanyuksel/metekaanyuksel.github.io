@@ -1,16 +1,12 @@
 ---
 layout: post
-title:  "I Contain Bird"
+title:  "I contain bird"
 date:   2025-09-29
 author: Mete Yuksel
 categories: musings
 ---
 # I contain bird
 
-
--   [Trying this blog thing out](#trying-this-blog-thing-out)
--   [Fiddling](#fiddling)
-    -   [Galavanting](#galavanting)
 
 ## Trying this blog thing out
 
