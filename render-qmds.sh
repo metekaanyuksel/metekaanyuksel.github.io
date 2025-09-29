@@ -31,6 +31,7 @@ title:  "$title"
 date:   $date
 author: $AUTHOR
 categories: $CATEGORY
+cover:  "/assets/$title"
 ---
 EOF
 

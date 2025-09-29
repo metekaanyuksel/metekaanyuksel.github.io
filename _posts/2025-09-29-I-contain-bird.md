@@ -4,27 +4,5 @@ title:  "I contain bird"
 date:   2025-09-29
 author: Mete Yuksel
 categories: musings
+cover:  "/assets/i-contain-bird.jpeg"
 ---
-# I contain bird
-
-
-## Trying this blog thing out
-
-``` r
-1 + 1
-```
-
-    [1] 2
-
-Science!
-
-## Fiddling
-
-<!--
-<iframe src="/assets/basic_plot.pdf" width="100%" height="600px">
-  <p>Your browser does not support PDFs. 
-     <a href="/assets/basic_plot.pdf">Download the PDF</a>.</p>
-</iframe>
--->
-
-### Galavanting
