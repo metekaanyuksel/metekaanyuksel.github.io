@@ -1,7 +1,8 @@
 ---
 title: "I contain bird"
 format:
-  html:
+  md:
+    variant: gfm
     theme: cosmo
     toc: true 
     toc-location: right
@@ -18,6 +19,10 @@ Science!
 ## Fiddling
 
 ```{r}
+#| echo: false
+#| results: hide
+#| warning: false
+#| message: false
 pdf("../assets/basic_plot.pdf", width = 7, height = 5)
 plot(c(1,2),c(4,5), type = "l")
 dev.off()

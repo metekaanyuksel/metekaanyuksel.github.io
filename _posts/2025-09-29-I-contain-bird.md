@@ -1,12 +1,9 @@
----
-layout: post
-title:  "I contain bird"
-date:   2025-09-17
-author: Mete Yuksel
-categories: musings
-tags:	avian influenza reassortment
-cover:  "/assets/i-contain-bird.jpeg"
----
+# I contain bird
+
+
+-   [Trying this blog thing out](#trying-this-blog-thing-out)
+-   [Fiddling](#fiddling)
+    -   [Galavanting](#galavanting)
 
 ## Trying this blog thing out
 
@@ -20,10 +17,11 @@ Science!
 
 ## Fiddling
 
-``` r
-plot(c(1,2),c(4,5), type = "l")
-```
-
-![](2025-09-29-I-contain-bird.markdown_strict_files/figure-markdown_strict/unnamed-chunk-2-1.png)
+<iframe src="/assets/basic_plot.pdf" width="100%" height="600px">
+<p>
+Your browser does not support PDFs.
+<a href="/assets/basic_plot.pdf">Download the PDF</a>.
+</p>
+</iframe>
 
 ### Galavanting
