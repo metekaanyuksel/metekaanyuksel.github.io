@@ -17,8 +17,7 @@ main_nav: true
   {% for post in site.categories[cat] %}
     <li>
       <strong>
-        {% assign slug = post.title | downcase | replace: ' ', '-' %}
-	<a href="{{ '/quarto_files/' | append: slug | append: '.html' }}">{{ post.title }}</a>
+        <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
       </strong>
       <span class="post-date">- {{ post.date | date_to_long_string }}</span>
     </li>
