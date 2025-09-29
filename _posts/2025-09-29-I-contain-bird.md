@@ -20,11 +20,11 @@ Science!
 
 ## Fiddling
 
+<!--
 <iframe src="/assets/basic_plot.pdf" width="100%" height="600px">
-<p>
-Your browser does not support PDFs.
-<a href="/assets/basic_plot.pdf">Download the PDF</a>.
-</p>
+  <p>Your browser does not support PDFs. 
+     <a href="/assets/basic_plot.pdf">Download the PDF</a>.</p>
 </iframe>
+-->
 
 ### Galavanting
