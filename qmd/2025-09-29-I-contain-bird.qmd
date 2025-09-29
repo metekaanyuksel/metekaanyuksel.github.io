@@ -1,7 +1,9 @@
 ---
 title: "I contain bird"
-format: markdown
-editor: visual
+date: 2025-09-29
+format:
+  md:
+    variant: gfm
 ---
 
 ## Trying this blog thing out
