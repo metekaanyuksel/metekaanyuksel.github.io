@@ -26,7 +26,7 @@ plot(c(1,2),c(4,5), type = "l")
 ```
 
 ::: cell-output-display
-![](I-contain-bird_files/figure-markdown/unnamed-chunk-2-1.png)
+![](2025-09-29-I-contain-bird_files/figure-markdown/unnamed-chunk-2-1.png)
 :::
 :::
 
