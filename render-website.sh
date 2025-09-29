@@ -7,7 +7,7 @@ if [ -z "$1" ]; then
   exit 1
 fi
 
-bash render-website.sh
+bash render-qmds.sh
 
 git add -A
 git commit -m "$1"
