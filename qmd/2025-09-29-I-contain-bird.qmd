@@ -1,11 +1,10 @@
 ---
 title: "I contain bird"
-date: 2025-09-29
-categories: birds
 format:
-  md:
-    variant: gfm
-    preserve-headers: true
+  html:
+    theme: cosmo
+    toc: true 
+    toc-location: right
 ---
 
 ## Trying this blog thing out
