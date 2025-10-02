@@ -17,7 +17,7 @@ main_nav: true
 <br>
 <br>
 
-<img src="/assets/spillcombinavoir.png" align="left" style="width: 50%; margin-right: 5%;"> **Yuksel, M. K.**, Qiqi, Y., Osmond, M. M.* & Mideo, N.* Host constraints on viral recombination and emergence. Submitted to *Proc B*.
+<img src="/assets/spillcombinavoir.png" align="right" style="width: 50%; margin-right: 5%;"> **Yuksel, M. K.**, Qiqi, Y., Osmond, M. M.* & Mideo, N.* Host constraints on viral recombination and emergence. Submitted to *Proceedings of the Royal Society B*.
 
 <br>
 <br>
