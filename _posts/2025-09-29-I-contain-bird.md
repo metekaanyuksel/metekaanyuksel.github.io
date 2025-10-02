@@ -4,8 +4,7 @@ title:  "I contain bird"
 date:   2025-09-29
 author: Mete Yuksel
 categories: musings
-tags: bird
-cover:  "/assets/posts/I-contain-bird.jpeg"
+cover:  "/assets/I-contain-bird.jpeg"
 ---
 
 
