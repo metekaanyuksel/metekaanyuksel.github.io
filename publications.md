@@ -15,6 +15,8 @@ main_nav: true
 <img src="/assets/null-model.png" align="left" style="width: 50%; margin-right: 5%;"> **Yuksel, M. K.**, Deraje, P., Osmond, M. M.* & Mideo, N.* A null model for the evolution of the recombination landscape. In prep.
 
 <br>
+&nbsp;
+<br>
 <br>
 
 <img src="/assets/spillcombinavoir.png" align="right" style="width: 50%; margin-right: 5%;"> **Yuksel, M. K.**, Qiqi, Y., Osmond, M. M.* & Mideo, N.* Host constraints on viral recombination and emergence. Submitted to *Proceedings of the Royal Society B*.
