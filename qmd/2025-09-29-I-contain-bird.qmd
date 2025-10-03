@@ -5,4 +5,4 @@ format:
     variant: gfm
 ---
 
-<img src="/assets/ducks_dc.jpeg" alt="Ducks DC" width="100%" height="600px">
+<img src="/assets/posts/ducks_dc.jpeg" alt="Ducks DC" width="100%" height="600px">

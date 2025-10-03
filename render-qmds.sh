@@ -40,7 +40,7 @@ title:  "$title"
 date:   $date
 author: $AUTHOR
 categories: $CATEGORY
-cover:  "/assets/${cover_title}.jpeg"
+cover:  "/assets/posts/${cover_title}.jpeg"
 ---
 EOF
 
