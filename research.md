@@ -11,7 +11,7 @@ main_nav: true
   <img src="/assets/bear.JPG" style="width: 100%; max-width: none;">
 </div>
 
-One of the problems I am most interested in right now is the **evolution of recombination**. This is one of the oldest puzzles in evolutionary biology[^1], and there is a rich theoretical literature on the subject.
+One of the problems I am most interested in right now is the **evolution of recombination**. This is one of the oldest puzzles in evolutionary biology[^1] --- why do some cells undergo meiosis (including recombination) and subsequently fuse? --- and there is a rich theoretical literature on the subject.
 
 - The observation that recombination varies dramatically along the genome (at fine and coarse scales), across individuals (i.e., gametes), between sexes, between populations, and between species[^2] motivates a lot of the work that I have been doing.
 
@@ -19,7 +19,7 @@ One of the problems I am most interested in right now is the **evolution of reco
 
 <br>
 
-My other main scientific interest is **virus evolution and emergence**. RNA viruses are so rapidly evolving that, by conventional metrics of the rate of molecular evolution, their genomes should turnover _neutrally_ in $\sim 10^3$ years. By some estimates, the rate of recombination is even greater. Isn't that remarkable! I am interested in understanding how mutation and recombination shape a) the propensity to successfully spillover and sustain transmission (i.e., emerge) in humans[^3] and b) themselves vary and evolve.
+My other main scientific interest is **virus evolution and emergence**. RNA viruses are so rapidly evolving that, by conventional metrics of the rate of molecular evolution, their genomes should turnover _neutrally_ in $\sim 10^3$ years. By some estimates, the rate of recombination (during co-infection of the same host) is even greater. Isn't that remarkable! I am interested in understanding how mutation and recombination shape a) the propensity to successfully spillover and sustain transmission (i.e., emerge) in humans[^3] and b) themselves vary and evolve.
 
 - Avian influenza poses an enormous risk to human health. Evolution in avian and mammalian hosts will be a key determinant of if/when it successfully transmits between humans. What species will host the genotypes that successfully establish in human? Do available sequence data tell us anything about the potential for reassortment within and between sub-types (i.e., the different Hs and Ns)? When do these reassortment events matter? These are questions that I've been thinking about.
 
@@ -28,7 +28,7 @@ My other main scientific interest is **virus evolution and emergence**. RNA viru
 <br>
 <br>
 
-[^1]: A good introduction to the subject is [this paper](https://www.journals.uchicago.edu/doi/10.1086/599084) by Sally Otto. Also check out [Lenormand et al. 2016](https://royalsocietypublishing.org/doi/10.1098/rstb.2016.0001)
+[^1]: A great introduction to the subject is [this paper](https://www.journals.uchicago.edu/doi/10.1086/599084) by Sally Otto. Also check out [this perspective](https://academic.oup.com/evolut/article-abstract/54/2/337/6757522?redirectedFrom=fulltext&login=false) by Burt and [this piece](https://royalsocietypublishing.org/doi/10.1098/rstb.2016.0001) by Lenormand _et al._.
 
 [^2]: In fact, there is a remarkable experiment showing that the gene, PRDM9, that determines where recombination occurs on the genome (i.e., the set of recombination _hotspots_) in many vertebrates underlies the formation of different species to begin with 😱.
 
