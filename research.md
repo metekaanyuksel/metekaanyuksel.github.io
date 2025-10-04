@@ -7,11 +7,9 @@ main_nav: true
 
 **I use mechanistic mathematical models, genomic data (broadly defined!), and computational statistical tools to answer biological questions.** 
 
-<br>
-
-<img src="/assets/bear.JPG" align="left" style="width: 100%; max-width: none;">
-
-<br>
+<div style="margin: 40px 0;">
+  <img src="/assets/bear.JPG" style="width: 100%; max-width: none;">
+</div>
 
 One of the problems I am most interested in right now is the **evolution of recombination**. This is one of the oldest puzzles in evolutionary biology[^1], and there is a rich theoretical literature on the subject.
 
