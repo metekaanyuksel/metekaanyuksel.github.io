@@ -11,6 +11,8 @@ main_nav: true
   <img src="/assets/bear.JPG" style="width: 100%; max-width: none;">
 </div>
 
+<br>
+
 One of the problems I am most interested in right now is the **evolution of recombination**. This is one of the oldest puzzles in evolutionary biology[^1] --- why do some cells undergo meiosis (including recombination) and subsequently fuse? --- and there is a rich theoretical literature on the subject.
 
 - The observation that recombination varies dramatically along the genome (at fine and coarse scales), across individuals (i.e., gametes), between sexes, between populations, and between species[^2] motivates a lot of the work that I have been doing.
