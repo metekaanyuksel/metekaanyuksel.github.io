@@ -11,10 +11,6 @@ I use mechanistic mathematical models, genomic data (broadly defined!), and comp
 
 <br>
 <br>
-<br>
-&nbsp;
-<br>
-<br>
 
 One of the problems I am most interested in right now is the evolution of recombination. This is one of the oldest puzzles in evolutionary biology --- why do organisms fuse gametes and recombine genetic material when there is a two-fold cost compared to asexuality --- and there is a rich theoretical literature on the subject.
 
@@ -24,9 +20,7 @@ One of the problems I am most interested in right now is the evolution of recomb
 
 <br>
 <br>
-<br>
 &nbsp;
-<br>
 <br>
 
 My other main scientific interest is virus evolution. RNA viruses are so rapidly evolving that, by conventional metrics of the rate of molecular evolution, their genomes should turnover _neutrally_ in $\sim 10^3$ years. Isn't that remarkable! I am interested in understanding how they make a living, how recombination shapes their evolution and propensity to successfully spillover and emerge in humans[^2], and other aspects of their weird biology.
@@ -35,6 +29,8 @@ My other main scientific interest is virus evolution. RNA viruses are so rapidly
 
 - Although we know recombination and reassortment are common in RNA viruses and of concern for human health, their evolution is not particularly well-understood. An especially interesting alternative to the idea reassortment evolved to shuffle genetic material is that it is a necessary byproduct of the segmented nature of some viral genomes (i.e., that genes are encoded on different segments and this allows for finer control over gene expression in host cells). Weighing the shuffling and gene expression control hypotheses is a problem I am very interested in. If this interests you, please get in touch!
 
+<br>
+<br>
 
 [^1]: In fact, there is a remarkable experiment showing that the gene, PRDM9, that determines where recombination occurs on the genome (i.e., the set of recombination _hotspots_) in many vertebrates underlies the formation of different species to begin with 😱.
 
