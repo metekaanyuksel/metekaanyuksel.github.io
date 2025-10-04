@@ -12,7 +12,9 @@ main_nav: true
 <br>
 <br>
 
-<img src="/assets/null-model.png" align="left" style="width: 50%; margin-right: 5%;"> **Yuksel, M. K.**, Deraje, P., Osmond, M. M.* & Mideo, N.* A null model for the evolution of the recombination landscape. In prep.
+<img src="/assets/null-model.png" align="left" style="width: 50%; margin-right: 5%;"> 
+
+**Yuksel, M. K.**, Deraje, P., Osmond, M. M.* & Mideo, N.* A null model for the evolution of the recombination landscape. In prep.
 
 <br>
 <br>
@@ -21,14 +23,20 @@ main_nav: true
 <br>
 <br>
 
-<img src="/assets/spillcombinavoir.png" align="right" style="width: 50%; margin-right: 5%;"> **Yuksel, M. K.**, Qiqi, Y., Osmond, M. M.* & Mideo, N.* Host constraints on viral recombination and emergence. Submitted to *Proceedings of the Royal Society B*.
+<img src="/assets/spillcombinavoir.png" align="right" style="width: 50%; margin-right: 5%;"> 
+
+**Yuksel, M. K.**, Qiqi, Y., Osmond, M. M.* & Mideo, N.* (2025). [Host constraints on viral recombination and emergence.]( https://doi.org/10.1101/2025.10.01.679867) Submitted to *Proceedings of the Royal Society B*.
 
 <br>
 <br>
 
-<img src="/assets/chinook.png" align="right" style="width: 50%; margin-right: 5%;"> Keefer, M., **Yuksel, M. K.**, & Caudill, C. Assessing the role of juvenile life history diversity and adult translocation on cohort productivity in a Chinook Salmon population. In revision at *Fisheries*.
+<img src="/assets/chinook.png" align="right" style="width: 50%; margin-right: 5%;"> 
+
+Keefer, M., **Yuksel, M. K.**, & Caudill, C. (2025). Assessing the role of juvenile life history diversity and adult translocation on cohort productivity in a Chinook Salmon population. In revision at *Fisheries*.
 
 <br>
 <br>
 
-<img src="/assets/patch-model.png" align="left" style="width: 50%; margin-right: 5%;"> **Yuksel, M. K.**, Remien, C. H., Karki, B., Bull, J. J., & Krone, S. M. (2021). Vector dynamics influence spatially imperfect genetic interventions against disease. _Evolution, Medicine, & Public Health, 9_(1), 1-10.
+<img src="/assets/patch-model.png" align="left" style="width: 50%; margin-right: 5%;"> 
+
+**Yuksel, M. K.**, Remien, C. H., Karki, B., Bull, J. J., & Krone, S. M. (2021). [Vector dynamics influence spatially imperfect genetic interventions against disease.](https://academic.oup.com/emph/article/9/1/1/5920238) _Evolution, Medicine, & Public Health, 9_(1), 1-10.
