@@ -13,7 +13,7 @@ main_nav: true
 
 <br>
 
-One of the problems I am most interested in right now is the **evolution of recombination**. This is one of the oldest puzzles in evolutionary biology[^1] --- why do some cells undergo meiosis (including recombination) and subsequently fuse? --- and there is a rich theoretical literature on the subject.
+One of the subjects I am most interested in right now is the **evolution of recombination**[^1].
 
 - The observation that recombination varies dramatically along the genome (at fine and coarse scales) motivates a lot of the work that I have been doing. Particularly striking is how much the landscape (and rate) of recombination itself varies between gametes, individuals, sexes, populations, and species[^2]. A wealth of data (e.g., from single sperm sequencing) makes it an exciting time to think about variation in recombination at these scales.
 
@@ -21,7 +21,7 @@ One of the problems I am most interested in right now is the **evolution of reco
 
 <br>
 
-My other main scientific interest is **virus evolution and emergence**. RNA viruses are so rapidly evolving that, by conventional metrics of the rate of molecular evolution, their genomes should turnover _neutrally_ in $\sim 10^3$ years. By some estimates, the rate of recombination (during co-infection of the same host) is even greater. Isn't that remarkable! I am interested in understanding how viral mutation and recombination shape the propensity of the pathogen to successfully spillover and sustain transmission (i.e., emerge) in humans[^3]. I am also very interested in how, as phenotype, mutation and recombination rate vary and evolve at within- and between-host scales.
+My other main scientific interest is **virus evolution and emergence**. RNA viruses are so rapidly evolving that, by conventional metrics of the rate of molecular evolution, their genomes should turnover _neutrally_ in $\sim 10^3$ years. By some estimates, the rate of recombination (during co-infection of the same host) is even greater. Isn't that remarkable! I am interested in understanding how viral mutation and recombination shape the propensity of the pathogen to successfully spillover and sustain transmission (i.e., emerge) in humans[^3]. I am also very interested in how, as phenotypes, viral mutation and recombination rates vary and evolve.
 
 - Although we know recombination and reassortment are common in RNA viruses and of concern for human health, the _evolution_ of these process is not particularly well-understood. An especially interesting alternative to the idea reassortment evolved to shuffle genetic material is that it is a necessary byproduct of the segmented nature of some viral genomes (i.e., that genes are encoded on different segments and this allows for finer control over gene expression in host cells). Weighing the shuffling and gene expression control hypotheses is a problem I am very interested in. If this interests you, please get in touch!
 
