@@ -11,40 +11,30 @@ main_nav: true
 <h2>Publications</h2>
 <hr>
 
-<img src="/assets/null-model.png" style="float:left; margin:0 15px 0 0; width:180px;">
-<em>A null model for the evolution of the recombination landscape</em> (in prep)  
-<br><b>Yuksel, M. K.</b>, Deraje, P., Osmond, M. M.* & Mideo, N.*  
-<br><br><br><br>
-
+<img src="/assets/null-model.png" style="float:left; width:180px; margin:0 15px 5px 0;">
+**Yuksel, M. K.**, Deraje, P., Osmond, M. M.* & Mideo, N.* A null model for the evolution of the recombination landscape. In prep.
+<br><br>
 <hr>
 
-<img src="/assets/spillcombinavoir.png" style="float:left; margin:0 15px 0 0; width:180px;">
-<em>Host constraints on viral recombination and emergence</em> (submitted to <i>Proceedings of the Royal Society B</i>)  
-<br><b>Yuksel, M. K.</b>, Qiqi, Y., Osmond, M. M.* & Mideo, N.*  
-<br><br><br><br>
-
+<img src="/assets/spillcombinavoir.png" style="float:left; width:180px; margin:0 15px 5px 0;">
+**Yuksel, M. K.**, Qiqi, Y., Osmond, M. M.* & Mideo, N.* Host constraints on viral recombination and emergence. Submitted to *Proceedings of the Royal Society B*.
+<br><br>
 <hr>
 
-<img src="/assets/chinook.png" style="float:left; margin:0 15px 0 0; width:180px;">
-<em>Assessing the role of juvenile life history diversity and adult translocation on cohort productivity in a Chinook Salmon population</em> (<i>Fisheries</i>)  
-<br>Keefer, M., <b>Yuksel, M. K.</b>, & Caudill, C.  
-<br><br><br><br>
-
+<img src="/assets/chinook.png" style="float:left; width:180px; margin:0 15px 5px 0;">
+Keefer, M., **Yuksel, M. K.**, & Caudill, C. Assessing the role of juvenile life history diversity and adult translocation on cohort productivity in a Chinook Salmon population. *Fisheries*.
+<br><br>
 <hr>
 
-<img src="/assets/patch-model.png" style="float:left; margin:0 15px 0 0; width:180px;">
-<em>Vector dynamics influence spatially imperfect genetic interventions against disease</em> (2021, <i>Evolution, Medicine & Public Health</i>, <b>9</b>(1), 1–10)  
-<br><b>Yuksel, M. K.</b>, Remien, C. H., Karki, B., Bull, J. J., & Krone, S. M.  
-<br><br><br><br>
-
+<img src="/assets/patch-model.png" style="float:left; width:180px; margin:0 15px 5px 0;">
+**Yuksel, M. K.**, Remien, C. H., Karki, B., Bull, J. J., & Krone, S. M. (2021). Vector dynamics influence spatially imperfect genetic interventions against disease. Evolution, Medicine, & Public Health, 9(1), 1–10.
+<br><br>
 </DIV>
 
 <hr>
 
 <ul>
   <li>
-    Keefer, M., <b>Yuksel, M.</b>, & Caudill, C. (2022). 
-    <em>Decision Support Modeling for Outplanting Adult Chinook Salmon in the Santiam River Basin</em>. 
-    Technical Report 2022-1 for US Army Corps of Engineers.
+    Keefer, M., **Yuksel, M.**, & Caudill, C. (2022). Decision Support Modeling for Outplanting Adult Chinook Salmon in the Santiam River Basin. Technical Report 2022-1 for US Army Corps of Engineers.
   </li>
 </ul>
