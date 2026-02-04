@@ -12,8 +12,10 @@ I would like to start posting on this blog more frequently. Currently
 the only blog post (that is not along the lines of “Hello world”)
 includes some pictures of birds. More of that to come, probably.
 
-But I’m hoping to post more than bird pictures, too, and hopefully some
-of it is of interest to others.
+But I’m hoping to post more than bird pictures, too, and hopefully it is
+of interest to others. Bare with me as I learn how to render math using
+what is very likely a convoluted bash script converting .qmd to .md
+files…
 
 <img src="/assets/posts/ducks_cdmx.jpeg" alt="Ducks CDMX" width="100%" height="600px">
 
@@ -43,12 +45,13 @@ would like to share.
     various ways of measuring it’s “dimension” — super cool!
 
 \*The reason is related to my favorite fact about the coalescent: it
-comes down from infinity. Starting from dust, i.e., the partition
-$\pi_0 = \{\{1\}, \ldots, \{n\}, \ldots\}$, we have
-$\Pr(|\pi_t| < \infty) = 1$ for all $t > 0$. This means there is an
-infinite amount of coalescence in every interval $[0,t]$. From these
-rapid coalesce, one can construct Cauchy sequences which have limits at
-time $t=0$, i.e., when individuals are all distinct.
+comes down from infinity. Starting from dust, i.e., where no individuals
+have found shared genetic ancestors, we have
+$\Pr(\text{number of lineages that have yet to coalesce} < \infty) = 1$
+for all $t > 0$. This means there is an infinite amount of coalescence
+in every interval $[0,t]$. From these rapid coalesce, one can construct
+Cauchy sequences which have limits at time $t=0$, i.e., when individuals
+are all distinct.
 
 1.  **Goldberg, A. (2026). [Rare variation in malaria parasites biases
     population-genetic
@@ -57,7 +60,7 @@ time $t=0$, i.e., when individuals are all distinct.
     evolution of many species, but convergence to this coalescent
     requires that the reproductive variance of individuals doesn’t blow
     up as $N \to \infty$ too fast. When the reproductive success of
-    individuals is highly skewed, multiple-merger coalescent pop out.
+    individuals is highly skewed, multiple-merger coalescents pop out.
     This paper shows that these coalescents are better fit to malaria
     population genomic data in Africa, South Asia, and Southeast Asia.
     The extent of deviations from binary-merger model appear to vary
