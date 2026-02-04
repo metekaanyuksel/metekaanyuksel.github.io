@@ -13,9 +13,7 @@ the only blog post (that is not along the lines of “Hello world”)
 includes some pictures of birds. More of that to come, probably.
 
 But I’m hoping to post more than bird pictures, too, and hopefully it is
-of interest to others. Bare with me as I learn how to render math using
-what is very likely a convoluted bash script converting .qmd to .md
-files…
+of interest to others.
 
 <img src="/assets/posts/ducks_cdmx.jpeg" alt="Ducks CDMX" width="100%" height="600px">
 
@@ -45,13 +43,17 @@ would like to share.
     various ways of measuring it’s “dimension” — super cool!
 
 \*The reason is related to my favorite fact about the coalescent: it
-comes down from infinity. Starting from dust, i.e., where no individuals
-have found shared genetic ancestors, we have
+comes down from infinity. Starting with infinitely many individuals that
+have not found shared genetic ancestors with each other (i.e., are in
+their own blocks), we have
 $\Pr(\text{number of lineages that have yet to coalesce} < \infty) = 1$
-for all $t > 0$. This means there is an infinite amount of coalescence
-in every interval $[0,t]$. From these rapid coalesce, one can construct
-Cauchy sequences which have limits at time $t=0$, i.e., when individuals
-are all distinct.
+for all $t > 0$. (In other words, when we start with infinitely many
+blocks, only finitely few are left after a positive amount of time.)
+This means there is an infinite amount of coalescence in every interval
+$[0,t]$. From these rapid coalescences, one can construct Cauchy
+sequences which have limits at time $t=0$. Since this is precisely when
+individuals are all distinct, the sequences converge to points which are
+not in the space.
 
 1.  **Goldberg, A. (2026). [Rare variation in malaria parasites biases
     population-genetic
