@@ -51,9 +51,10 @@ for all $t > 0$. (In other words, when we start with infinitely many
 blocks, only finitely few are left after a positive amount of time.)
 This means there is an infinite amount of coalescence in every interval
 $[0,t]$. From these rapid coalescences, one can construct Cauchy
-sequences which have limits at time $t=0$. Since this is precisely when
-individuals are all distinct, the sequences converge to points which are
-not in the space.
+sequences which have limits at time $t=0$. But there is, in fact, no
+coalesce at $t=0$ itself. Instead, coalesce begins as soon as the clock
+starts running. Thus, sequences of individuals whose coal. times go to
+zero converge to points which are not in the space.
 
 1.  **Goldberg, A. (2026). [Rare variation in malaria parasites biases
     population-genetic
