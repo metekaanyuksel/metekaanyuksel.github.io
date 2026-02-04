@@ -44,7 +44,7 @@ would like to share.
 
 \*The reason is related to my favorite fact about the coalescent: it
 comes down from infinity. Starting from dust, i.e., the partition
-$\pi_0 = \{\{1\},\dots,\{n\},\dots\}$, we have
+$\pi_0 = \{\{1\}, \ldots, \{n\}, \ldots\}$, we have
 $\Pr(|\pi_t| < \infty) = 1$ for all $t > 0$. This means there is an
 infinite amount of coalescence in every interval $[0,t]$. From these
 rapid coalesce, one can construct Cauchy sequences which have limits at
@@ -65,8 +65,8 @@ time $t=0$, i.e., when individuals are all distinct.
     Africa and South Asia. Interestingly, differences in vector density
     and the magnitude of co-infection may explain this pattern.
 
-2.  [This video](https://www.youtube.com/watch?v=BHdbsHFs2P0) by
-    3Blue1Brown.
+2.  **[This video](https://www.youtube.com/watch?v=BHdbsHFs2P0) by
+    3Blue1Brown.**
 
 3.  **Stroustrup, S. et al. (2025). [Stochastic Phylogenetic Models of
     Shape](https://www.biorxiv.org/content/10.1101/2025.04.03.646616v1.abstract).**
@@ -82,8 +82,8 @@ time $t=0$, i.e., when individuals are all distinct.
     far from “the most important paper in phylogenetic methods
     development of the decade!” Given widespread interest in studying
     the evolution of shape, I stand by the sentiment. Moreover, I think
-    the approach of coupling Brownian motions in the places to ensure
-    shapes stay shapes is very neat!
+    the approach of coupling Brownian motions at all locations in the
+    plane (to ensure shapes stay, well, shapes) is *very* cool!
 
 4.  **Judd, J., Spence, J. et al. (2025). [Allele Frequencies at
     Recessive Disease Genes are Mainly Determined by Pleiotropic Effects
