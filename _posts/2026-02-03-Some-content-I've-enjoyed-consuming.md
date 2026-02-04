@@ -43,9 +43,9 @@ would like to share.
     various ways of measuring it’s “dimension” — super cool!
 
 \*The reason is related to my favorite fact about the coalescent: it
-comes down from infinity. Starting from the partition
-$\pi_0 \{\{1\},\dots,\{n\},\dots\}$, we have
-$\Pr(\# \pi_t < \infty) = 1$ for all $t > 0$. This means there is an
+comes down from infinity. Starting from dust, i.e., the partition
+$\pi_0 = \{\{1\},\dots,\{n\},\dots\}$, we have
+$\Pr(|\pi_t| < \infty) = 1$ for all $t > 0$. This means there is an
 infinite amount of coalescence in every interval $[0,t]$. From these
 rapid coalesce, one can construct Cauchy sequences which have limits at
 time $t=0$, i.e., when individuals are all distinct.
@@ -85,7 +85,7 @@ time $t=0$, i.e., when individuals are all distinct.
     the approach of coupling Brownian motions in the places to ensure
     shapes stay shapes is very neat!
 
-4.  **Judd, J., Spence, J. et al.\* (2025). [Allele Frequencies at
+4.  **Judd, J., Spence, J. et al. (2025). [Allele Frequencies at
     Recessive Disease Genes are Mainly Determined by Pleiotropic Effects
     in
     Heterozygotes](https://www.biorxiv.org/content/10.64898/2025.12.05.692665v1).**
@@ -101,39 +101,40 @@ time $t=0$, i.e., when individuals are all distinct.
     strength of the evidence against predictions of the
     mutation-selection balance model at equilibrium.
 
-5.  [This
+5.  **[This
     profile](https://www.newyorker.com/magazine/2023/09/25/jeremy-o-harris-before-and-after-slave-play)
-    about playwright Jeffery O. Harris. I had just seen “Slave Play” in
-    Toronto and was eager to learn more about Harris. The profile was a
-    really interesting look into his creative process and to the
+    about playwright Jeffery O. Harris.** I had just seen “Slave Play”
+    in Toronto and was eager to learn more about Harris. The profile was
+    a really interesting look into his creative process and to the
     controversy around his work. I was particularly moved by Harris’
     time at Yale, which culminated in [“Yell: A Documentary of My Time
     Here”](https://www.nplusonemag.com/issue-38/fiction-drama/yell-a-documentary-of-my-time-here/).
     I read “Yell” on a flight from Buenos Aries to Toronto and, like
     Slave Play, have kept thinking about it for months.
 
-6.  [This Numberphile
+6.  **[This Numberphile
     video](https://www.youtube.com/watch?v=beakj767uG4) about smoothed
-    asymptotics and the complete, beautiful freedom we have in
-    mathematics to define things how we please. One of the first moments
-    I fell in love with math was watching [this
+    asymptotics** and the freedom we have in mathematics to define
+    things how we please. One of the first moments I fell in love with
+    math was watching [this
     video](https://www.youtube.com/watch?v=w-I6XTVZXww) about how, in a
     certain sense, the sum of all natural numbers equals $-1/12$. Many
     people took issue with the claims of this video when it came out,
     including friends of mine with whom I excitedly shared the video in
     high school! But, as the follow up video illustrates, there are
     multiple senses in which the sum of all natural numbers is
-    meaningfully defined as $-1/12$.
+    meaningfully defined as $-1/12$. The rules are for us to decide!
 
-7.  [This
+7.  **[This
     article](https://www.nytimes.com/2026/01/24/us/children-genetics-race-science.html)
     about the use of children’s genetic data in race pseudoscience
-    circles. Without a doubt, this use of the data is unprincipled — one
-    can write entire books about he methodological flaws of this kind of
-    “research”. At the same time, this kind of application of human
+    circles.** One can write entire books about he methodological flaws
+    of this kind of “research”. There is nothing meaningful that can be
+    learned from this kind of analysis. All it does it pedal racist
+    bullshit. At the same time, this kind of application of human
     genetic data is not nearly surprising as it should be. Many human
-    genetic datasets have gotten into the hands of racist wack-jobs and,
-    in the process, the privacy of study participants compromised. One
+    genetic datasets have gotten into the hands of racist freaks and, in
+    the process, the privacy of study participants compromised. One
     aspect of the story that did surprise me, however, was that
     investigators who collected the data to study brain development *did
     not inform the children or their families of how the data was used*.
@@ -144,9 +145,10 @@ time $t=0$, i.e., when individuals are all distinct.
     stigmatizing research no longer included any reference to skin
     color, ancestry and ethnicity.”
 
-8.  [This perspective](https://scottaaronson.blog/?p=9030) about if the
-    widespread adoption of AI leaves space for “human intellectual
-    achievement, the stuff of my childhood dreams”.
+8.  **[This perspective](https://scottaaronson.blog/?p=9030) about if
+    the widespread adoption of AI leaves space for “human intellectual
+    achievement, the stuff of my childhood dreams”.** I thought it was
+    fascinating.
 
 <img src="/assets/posts/bugs_BA.jpeg" alt="Bugs BA" width="100%" height="600px">
 
