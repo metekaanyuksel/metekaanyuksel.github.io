@@ -118,7 +118,7 @@ the space.
     time at Yale, which culminated in [“Yell: A Documentary of My Time
     Here”](https://www.nplusonemag.com/issue-38/fiction-drama/yell-a-documentary-of-my-time-here/).
     I read “Yell” on a flight from Buenos Aries to Toronto and, like
-    Slave Play, have kept thinking about it for months.
+    “Slave Play”, have kept thinking about it for months.
 
 6.  **[This Numberphile
     video](https://www.youtube.com/watch?v=beakj767uG4) about smoothed
@@ -153,10 +153,8 @@ the space.
     stigmatizing research no longer included any reference to skin
     color, ancestry and ethnicity.”
 
-8.  **[This perspective](https://scottaaronson.blog/?p=9030) about if
-    the widespread adoption of AI leaves space for “human intellectual
-    achievement, the stuff of my childhood dreams”.** I thought it was
-    fascinating.
+8.  **[This blog post](https://scottaaronson.blog/?p=9030) about if AI
+    leaves space for human flourishing.**
 
 <img src="/assets/posts/bugs_BA.jpeg" alt="Bugs BA" width="100%" height="600px">
 
