@@ -24,10 +24,18 @@ for file in "$QMD_DIR"/*.qmd; do
     raw_title="$base"
   fi
 
-  # Format title: replace dashes with spaces
+  # Human-readable title (keep punctuation)
   title=$(echo "$raw_title" | sed 's/-/ /g')
-  # Format for cover image: replace spaces with dashes
-  cover_title=$(echo "$title" | sed 's/ /-/g')
+
+  # Slug for filenames / URLs
+  slug=$(echo "$title" \
+  | tr '[:upper:]' '[:lower:]' \
+  | sed "s/'//g" \
+  | sed 's/[^a-z0-9]/-/g' \
+  | sed 's/-\{2,\}/-/g' \
+  | sed 's/^-//;s/-$//')
+  
+  cover_title="$slug"
 
   mdfile="$QMD_DIR/$base.md"
   postfile="$POSTS_DIR/${base}.md"
