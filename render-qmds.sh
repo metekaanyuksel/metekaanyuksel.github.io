@@ -24,18 +24,8 @@ for file in "$QMD_DIR"/*.qmd; do
     raw_title="$base"
   fi
 
-  # Human-readable title (keep punctuation)
   title=$(echo "$raw_title" | sed 's/-/ /g')
-
-  # Slug for filenames / URLs
-  slug=$(echo "$title" \
-  | tr '[:upper:]' '[:lower:]' \
-  | sed "s/'//g" \
-  | sed 's/[^a-z0-9]/-/g' \
-  | sed 's/-\{2,\}/-/g' \
-  | sed 's/^-//;s/-$//')
-  
-  cover_title="$slug"
+  cover_title=$(echo "$title" | sed "s/'//g" | sed 's/ /-/g')
 
   mdfile="$QMD_DIR/$base.md"
   postfile="$POSTS_DIR/${base}.md"
