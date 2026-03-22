@@ -49,15 +49,13 @@ A few things I think are worth a read, listen, or watch:
     chemically interacting bits of jelly that perform highly specialized
     functions.
 
-3.  This [paper](https://arxiv.org/abs/2406.16465), which shows that
-    genealogical processes of particles in a certain class of Sequential
-    Monte Carlo (SMC) methods converge to the Kingman coalescent upon a
-    suitable re-scaling. This connection may hold important clues for
-    how to address particle degeneracy in applications on SMC. I was
-    pleasantly shocked to see this connection made! A lot of the ideas
-    seem to trace back to
-    [this](https://wrap.warwick.ac.uk/id/eprint/166304/1/WRAP_Theses_Brown_S_2021.pdf)
-    thesis.
+3.  This
+    [paper](https://projecteuclid.org/journals/electronic-journal-of-probability/volume-26/issue-none/Simple-conditions-for-convergence-of-sequential-Monte-Carlo-genealogies-with/10.1214/20-EJP561.full),
+    which shows that genealogical processes of particles in a certain
+    class of Sequential Monte Carlo (SMC) methods converge to a
+    time-rescaled Kingman coalescent. This connection may hold important
+    clues for how to address particle degeneracy in applications on SMC.
+    I was pleasantly shocked to see this connection made!
 
 4.  [*Original Sin* by Kathryn Paige
     Harden.](https://www.penguinrandomhouse.ca/books/714593/original-sin-by-kathryn-paige-harden/9780593447628)
