@@ -33,7 +33,7 @@ matters is that they were here.
 
 As they come back, I think this is worth remembering.
 
-<img src="/assets/posts/boise.jpg" alt="In the Boise bushes" width="100%" height="600px">
+<img src="/assets/posts/nyc-birrrrddd.jpg" alt="In the NYC bushes" width="100%" height="600px">
 
 <img src="/assets/posts/cda-duck.jpg" alt="CDA duck!" width="100%" height="600px">
 
