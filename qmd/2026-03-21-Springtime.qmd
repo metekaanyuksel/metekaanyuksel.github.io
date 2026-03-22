@@ -1,0 +1,36 @@
+---
+title: "Springtime"
+format:
+  md:
+    variant: gfm
+---
+  
+Every spring, I return to a portion of the poem "Parable of Flight" by Louise Glück:
+
+> Does it matter where the birds go? Does it even matter  
+> what species they are?  
+> They leave here, that's the point,  
+> first their bodies, then their sad cries.  
+> And from that moment, cease to exist for us.
+
+I don't remember where I first saw it, but I always think about it when the trees and streets of my city start filling up with the chirps of birds that once left. I love the way every line could plausibly be tacked onto every other line and a new meaning introduced. "Does it even matter // They leave here, that's the point. And from that moment, cease to exist for us." I love that that Glück subverts expectations about the order of loss: "first their bodies, then their sad cries." I love that the last lines ask us to remember that what is lost can still exist, and that the first two lines somewhat flippantly disregard the answers provided to the question of if it matters where the birds go provided by taxonomy and geography. Did it matter where the birds went? Does it matter where they will go? Does it matter who they were? What matters is that they were here.
+
+As they come back, I think this is worth remembering.
+
+<img src="/assets/posts/boise.jpg" alt="In the Boise bushes" width="100%" height="600px">
+
+<img src="/assets/posts/cda-duck.jpg" alt="CDA duck!" width="100%" height="600px">
+
+A few things I think are worth a read, listen, or watch:
+
+1. _One Battle After Another_. [This review](https://www.newyorker.com/magazine/2025/10/06/one-battle-after-another-movie-review) captures what I enjoyed about the film.
+
+3. This [blog post](https://allmovingparts.substack.com/p/on-being-cells) about what it feels like to know that you are a glob of mechanically and chemically interacting bits of jelly that perform highly specialized functions.
+
+4. This [paper](https://arxiv.org/abs/2406.16465), which shows that genealogical processes of particles in a certain class of Sequential Monte Carlo (SMC) methods converge to the Kingman coalescent upon a suitable re-scaling. This connection may hold important clues for how to address particle degeneracy in applications on SMC. I was pleasantly shocked to see this connection made! A lot of the ideas seem to trace back to [this](https://wrap.warwick.ac.uk/id/eprint/166304/1/WRAP_Theses_Brown_S_2021.pdf) thesis.
+
+5. [_Original Sin_ by Kathryn Paige Harden.](https://www.penguinrandomhouse.ca/books/714593/original-sin-by-kathryn-paige-harden/9780593447628) I am not done reading and certainly don't agree with everything Harden has to say, but I think that the book touches on interesting questions about inheritance and moral responsibility.
+
+6. The song ["Traveler's Curse"](https://www.youtube.com/watch?v=bTWckV-DGzg) by Canadian folk artist Ben Caplan. For no reason at all, it hits very hard right now. Very much worth a listen.
+
+<img src="/assets/posts/pullman.jpg" alt="A snowey day in Pullman" width="100%" height="600px">
