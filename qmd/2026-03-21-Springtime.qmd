@@ -1,5 +1,5 @@
 ---
-title: "Springtime"
+title: "springtime"
 format:
   md:
     variant: gfm
