@@ -1,0 +1,452 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>Is phylogeny a functor?</title>
+  <meta name="description" content="A longer post…hopefully this analogy isn’t too woo woo.">
+  
+  <meta name="author" content="Mete Yuksel">
+  <meta name="copyright" content="&copy; Mete Yuksel 2026">
+  
+
+  <!-- External libraries -->
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css">
+  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.9.0/styles/monokai-sublime.min.css">
+  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/css/lightbox.css">
+
+  <!-- Favicon and other icons (made with http://www.favicon-generator.org/) -->
+  <link rel="shortcut icon" href="/assets/icons/favicon.ico" type="image/x-icon">
+  <link rel="icon" href="/assets/icons/favicon.ico" type="image/x-icon">
+  <link rel="apple-touch-icon" sizes="57x57" href="/assets/icons/apple-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="/assets/icons/apple-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="/assets/icons/apple-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="/assets/icons/apple-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="/assets/icons/apple-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="/assets/icons/apple-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="/assets/icons/apple-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="/assets/icons/apple-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/icons/apple-icon-180x180.png">
+  <link rel="icon" type="image/png" sizes="192x192"  href="/assets/icons/android-icon-192x192.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/icons/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="96x96" href="/assets/icons/favicon-96x96.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/assets/icons/favicon-16x16.png">
+  <link rel="manifest" href="/assets/icons/manifest.json">
+  <meta name="msapplication-TileColor" content="#ffffff">
+  <meta name="msapplication-TileImage" content="/assets/icons/ms-icon-144x144.png">
+  <meta name="theme-color" content="#ffffff">
+
+  
+
+  
+  <!-- Twitter: card tags -->
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Is phylogeny a functor?">
+  <meta name="twitter:description" content="A longer post…hopefully this analogy isn’t too woo woo.">
+  <meta name="twitter:image" content="http://localhost:4000/assets/posts/Is-phylogeny-a-functor%3F.jpeg">
+  <meta name="twitter:url" content="http://localhost:4000/musings/2026/04/08/Is-phylogeny-a-functor.html">
+  
+
+  
+
+  <!-- Site styles -->
+  <link rel="stylesheet" href="/css/main.css">
+  <link rel="canonical" href="http://localhost:4000/musings/2026/04/08/Is-phylogeny-a-functor.html">
+	<link rel="alternate" type="application/rss+xml" title="Mete Kaan Yuksel" href="http://localhost:4000/feed.xml" />
+	
+	<!-- Tooltips -->
+	<script type="text/javascript">
+		window.tooltips = []
+	</script>
+  <!-- MathJax for LaTeX math rendering -->
+  <script>
+    window.MathJax = {
+      tex: {
+        inlineMath: [['$', '$'], ['\\(', '\\)']],
+        displayMath: [['$$', '$$'], ['\\[', '\\]']],
+        processEscapes: true
+      },
+      options: {
+        skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code']
+      }
+    };
+  </script>
+  <script id="MathJax-script" async
+    src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+  </script>
+</head>
+
+
+  <body>
+
+    <header class="navigation" role="banner">
+  <div class="navigation-wrapper">
+    <a href="/" class="logo">
+      
+      <img src="/assets/logo.png" alt="Mete Kaan Yuksel">
+      
+    </a>
+    <a href="javascript:void(0)" class="navigation-menu-button" id="js-mobile-menu">
+      <i class="fa fa-bars"></i>
+    </a>
+    <nav role="navigation">
+      <ul id="js-navigation-menu" class="navigation-menu show">
+				
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+	<li class="nav-link"><a href="/blog/">Blog</a>
+	
+
+	
+	<li class="nav-link"><a href="/pubs/">Publications</a>
+	
+
+	
+	<li class="nav-link"><a href="/research/">Research</a>
+	
+
+	
+
+	
+
+	
+
+
+      </ul>
+    </nav>
+  </div>
+</header>
+
+
+    <div class="page-content">
+        <div class="post">
+
+<div class="post-header-container has-cover" style="background-image: url(/assets/posts/Is-phylogeny-a-functor%3F.jpeg);">
+  <div class="scrim has-cover">
+    <header class="post-header">
+      <h1 class="title">Is phylogeny a functor?</h1>
+      <p class="info">by <strong>Mete Yuksel</strong></p>
+    </header>
+  </div>
+</div>
+
+<div class="wrapper">
+
+
+
+<section class="post-meta">
+  <div class="post-date">April 8, 2026</div>
+  <div class="post-categories">
+  in 
+    
+    <a href="/category/musings">Musings</a>
+    
+  
+  </div>
+</section>
+
+<article class="post-content">
+  <p>A longer post…hopefully this analogy isn’t too woo woo.</p>
+
+<p><img src="/assets/posts/blurry-little-guy.jpeg" alt="Blurry little guy" width="100%" height="600px" /></p>
+
+<p>For whatever reason, I’ve become really interested in <a href="https://en.wikipedia.org/wiki/Category_theory">category
+theory</a> the last couple
+of weeks. This is the branch of math that studies objects called
+categories, collections of objects which are related via maps
+(morphisms, arrows), and the connections between them. Category theory
+is sometimes called “abstract nonsense”, but it provides a powerful way
+to reason about connections between distinct branches of math that
+otherwise are studied in isolation.</p>
+
+<h2 id="an-example">An example</h2>
+
+<p>It is common to learn about categories when being introduced to the
+so-called <a href="https://en.wikipedia.org/wiki/Fundamental_group"><em>fundemental
+group</em></a> $\pi(X,x_0)$ of
+a topological space $X$ with base point $x_0$. The fundamental group is
+a <a href="https://en.wikipedia.org/wiki/Group_(mathematics)">group</a> (i.e., a
+collection of symmetries) associated to a topological space and point in
+that space, which is constructed by considering all of the ways that
+“loops” in the space can be deformed. Formally, the fundamental group is
+defined as</p>
+
+<ol>
+  <li>an equivalence class of loops (i.e., continuous functions
+$f \colon [0,1] \to X$ on a topological space $X$ which start and
+end at the same point: $f(0) = f(1) = x_0$) and</li>
+  <li>an operation $\circ$ on the loop classes which satisfies group
+properties.</li>
+</ol>
+
+<p>The first condition just means that, if one loop can be continuously
+deformed into another, then the loops are considered the same. This is
+common: in various branches of math, things are considered the same if
+there is enough shared that it becomes convenient to view them in that
+way. (A contrived example: the functions $x^2$ and $x^3$ are both
+polynomials and are thus equivalent <em>mod</em> having super-linear growth,
+but $x$ and $x^2$ are not.) In some topological spaces, all loops can be
+deformed into all other loops. In other spaces, which have holes, this
+is not the case: a loop that contains a hole cannot be continuously
+moved, e.g., stretched and pulled like a rubber band, until it has the
+shape of a loop that does <em>not</em> contain the hole. So in this way the
+loop classes count the number of holes in a topological space.</p>
+
+<p>The second condition says that we have a reasonable way of combining or
+“adding” loops that cannot be deformed into each other (the equivalence
+class of loops up to continuous deformation or <em>homotopy</em>). The view of
+loops as functions helps define a meaningful sense in which they can be
+added: given two loops $f_1$ and $f_2$, move on the topological space
+according to $f_1$ at twice the usual speed, and then do the same thing
+but according to $f_2$. This defines a new loop
+$f_3 = f_2 \circ f_1 \colon [0,1] \to X$ which starts at $f_1(0) = x_0$,
+returns to this point ($f_1(1/2) = f_2(1/2) = x_0$, and ends at
+$f_2(1) = x_0$. One can show that $\circ$ defines a group operation on
+the space of loop classes. In particular, $\circ$ is associative, the
+“identity” loop ($f(t) = x_0$ for all $t$) is such that
+$f_1 \circ f = f_1$ for all $f_1$, and for any loop class $f_1$ there is
+an “inverse” loop $f_1^{-1}$ defined by running $f_1$ in reverse.</p>
+
+<h3 id="whats-the-point">What’s the point?</h3>
+
+<p>This is all fine and good but the reason we care about the fundamental
+group $(\pi(X,x_0),\circ)$ is that it provides a bridge between topology
+and group theory. Topology is all about characterizing how close things
+are to each other, and group theory is about characterizing symmetries.
+It turns out that, through the fundamental group, knowledge of what
+topological spaces are equivalent can be translated into what group
+structures are equivalent and vice versa. A coffee cop with a handle is
+not, topologically speaking, the same as a coffee cup with a handle: the
+number of holes and, thus, notions of “closeness” of points on the two
+cups differ. We would not consider the two cups the “same”
+topologically. The fundamental groups of the cups reflect this lack of
+equivalence: symmetries of loops on these cups also differ.</p>
+
+<p>It is in this sense that the fundamental group is a
+<a href="https://en.wikipedia.org/wiki/Functor"><em>functor</em></a>: a map between
+categories (topology and group theory) which translates salient
+information about one into the other. The concept that a functor (a word
+which I believe was originally borrowed from linguistics) tries to
+capture is one of many (duality, competition) which can be understood in
+a categorical sense.</p>
+
+<h2 id="phylogeny-is-functorial">Phylogeny is functorial?</h2>
+
+<p>Why have I been thinking about this? Well, for one, I think it’s cool!
+Two, <strong>I think that the category concept has helped clarify my thinking
+about how evolution happens and about how we study it.</strong> Biology is
+obviously much fuzzier than topology or group theory, and no analogy is
+without its drawbacks, but I find the categorical perspective to be
+compelling.</p>
+
+<p>Categories let us talk about collections of things which, for whatever
+reason, make sense to group. They share a set of properties which all
+other things do not. Functors let us talk about the relationships
+between the collections of things sharing properties in a way that
+relates the meaning of “sharing” in one collection to the meaning of
+“sharing” in another. Functors are arguably <em>the</em> reason category theory
+is useful: knowledge about one thing can be turned into knowledge about
+another. Connections can be made. Principled analogizing can happen.</p>
+
+<p>Now…for some not-so-principled analogizing…</p>
+
+<p>Species are collections of individuals which share phenotypes that
+reflect reproductive cohesion. In this sense, <strong>every species can be
+thought of a a category.</strong> The structure within species can be described
+by the full history of inheritance of the molecules (DNA, RNA,
+epigenetic marks, chaperones) which make up individuals. In this sense,
+<strong>the genealogy of individuals can be thought of as the set of arrows
+relating things (individuals) in the category (species).</strong> Those
+structures are, in the same way species boundaries are fuzzy, latent: we
+cannot see the inheritance of the molecules which then, through
+development, make organisms who they are. Sometimes, if we are lucky, we
+see patterns of variation at the present day that let us infer how
+processes on that scaffold must have operated. To what extent those
+molecules even capture the irreducible essence of individuals is
+another, thornier matter.</p>
+
+<p>So, if species make for categories and genealogies make for arrows,
+<strong>what are the functors which relate categories in a
+structure-preserving way? An obvious answer is the phylogeny, the full
+history of descent giving rise to present-day lineages.</strong> It is arguably
+through this object that most inference of evolutionary phenomena is
+made. Comparative methods let us estimate parameters of interest, such
+as the rate of evolution of body size, by super-imposing a model of
+evolution (e.g., Brownian motion) on the branches of trees relating
+contemporary species. This is a functorial process: take what you know
+about one species. Understanding of how life on Earth came to be is
+filtered, at least in some circles, through reconstruction of the
+history of the species that we see in the present day and the molecular
+and phenotypic differences that separate them.</p>
+
+<p>Is phylogeny reconstruction functor inference? (For that matter, what
+<em>isn’t</em> functor inference?) Is the Kingman coalescent, a widely used
+model for genealogies of individuals evolving neutrally, a depiction of
+the arrows relating individuals in a category? Is its universality a
+reflection of its robustness across categories? It is not difficult to
+see how some of the theorizing breaks down, analogizing devolves into
+abstract nonsense, and mathematical models and biology become conflated.
+But I think the categorical perspective provides, at a minimum, food for
+thought.</p>
+
+</article>
+
+
+
+
+
+<!-- RSS subscribe block -->
+<section class="rss">
+  <p class="rss-subscribe text">
+    <i class="fa fa-rss"></i>
+    <strong>
+      <a href="/feed.xml">Subscribe via RSS</a>
+    </strong>
+  </p>
+</section>
+
+
+
+
+
+</div>
+</div>
+    </div>
+
+    <footer class="site-footer">
+
+  <div class="wrapper">
+
+    <!--<h3 class="footer-heading">Mete Kaan Yuksel</h3>-->
+
+    <!--<div class="site-navigation">
+
+      <p><strong>Site Map</strong></p>
+      <ul class="pages">
+				
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+	<li class="nav-link"><a href="/blog/">Blog</a>
+	
+
+	
+	<li class="nav-link"><a href="/pubs/">Publications</a>
+	
+
+	
+	<li class="nav-link"><a href="/research/">Research</a>
+	
+
+	
+
+	
+
+	
+
+
+      </ul>
+    </div>-->
+
+    <div class="site-contact">
+
+      <!-- <p><strong>Contact</strong></p> -->
+      <ul class="social-media-list">
+        <li>
+          <a href="mailto:mete.yuksel@mail.utoronto.ca">
+            <i class="fa fa-envelope-o"></i>
+            <span class="username">mete.yuksel@mail.utoronto.ca</span>
+          </a>
+        </li>
+
+        
+          
+          <li>
+            <a href="https://github.com/metekaanyuksel" title="Fork me on GitHub">
+              <i class="fa fa-github"></i>
+              <span class="username">GitHub</span>
+            </a>
+          </li>
+          
+        
+
+      </ul>
+    </div>
+
+    <!--<div class="site-signature">
+      <p class="rss-subscribe text"><strong>Subscribe <a href="/feed.xml">via RSS</a></strong></p>
+      <p class="text"></p>
+    </div>-->
+
+  </div>
+
+</footer>
+
+<!-- Scripts -->
+<script src="//code.jquery.com/jquery-3.4.1.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/highlight.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.1/js/lightbox.min.js"></script>
+<script src="//unpkg.com/popper.js@1"></script>
+<script src="//unpkg.com/tippy.js@5"></script>
+
+<script type="text/javascript">
+$(document).ready(function() {
+  // Default syntax highlighting
+  hljs.initHighlightingOnLoad();
+
+  // Header
+  var menuToggle = $('#js-mobile-menu').unbind();
+  $('#js-navigation-menu').removeClass("show");
+  menuToggle.on('click', function(e) {
+    e.preventDefault();
+    $('#js-navigation-menu').slideToggle(function(){
+      if($('#js-navigation-menu').is(':hidden')) {
+        $('#js-navigation-menu').removeAttr('style');
+      }
+    });
+  });
+
+	// Enable tooltips via Tippy.js
+	if (Array.isArray(window.tooltips)) {
+		window.tooltips.forEach(function(tooltip) {
+			var selector = tooltip[0];
+			var config = tooltip[1];
+			tippy(selector, config);
+		})
+	}
+});
+
+</script>
+
+
+
+
+
+
+  </body>
+
+</html>

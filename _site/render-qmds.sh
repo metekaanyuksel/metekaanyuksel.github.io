@@ -25,7 +25,7 @@ for file in "$QMD_DIR"/*.qmd; do
   fi
 
   title=$(echo "$raw_title" | sed 's/-/ /g')
-  cover_title=$(echo "$title" | sed "s/'//g" | sed 's/ /-/g')
+  cover_title=$(echo "$title" | sed "s/'//g" | sed 's/ /-/g' | sed 's/?/%3F/g')
 
   mdfile="$QMD_DIR/$base.md"
   postfile="$POSTS_DIR/${base}.md"

@@ -5,9 +5,21 @@
     <description></description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 22 Mar 2026 19:55:32 -0400</pubDate>
-    <lastBuildDate>Sun, 22 Mar 2026 19:55:32 -0400</lastBuildDate>
+    <pubDate>Wed, 08 Apr 2026 17:56:36 -0400</pubDate>
+    <lastBuildDate>Wed, 08 Apr 2026 17:56:36 -0400</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
+    
+      <item>
+        <title>Is phylogeny a functor?</title>
+        <description>&lt;p&gt;A longer post…hopefully this analogy isn’t too woo woo.&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;/assets/posts/blurry-little-guy.jpeg&quot; alt=&quot;Blurry little guy&quot; width=&quot;100%&quot; height=&quot;600px&quot; /&gt;&lt;/p&gt; &lt;p&gt;For whatever reason, I’ve become really interested in &lt;a href=&quot;https://en.wikipedia.org/wiki/Category_theory&quot;&gt;category theory&lt;/a&gt; the last...</description>
+        <pubDate>Wed, 08 Apr 2026 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/musings/2026/04/08/Is-phylogeny-a-functor.html</link>
+        <guid isPermaLink="true">http://localhost:4000/musings/2026/04/08/Is-phylogeny-a-functor.html</guid>
+        
+        
+        <category>musings</category>
+        
+      </item>
     
       <item>
         <title>Springtime</title>
