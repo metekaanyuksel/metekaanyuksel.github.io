@@ -40,17 +40,17 @@ defined as
     properties.
 
 The first condition just means that, if one loop can be continuously
-deformed into another, then the loops are considered the same. This is
-common: in various branches of math, things are considered the same if
-there is enough shared that it becomes convenient to view them in that
-way. (A contrived example: the functions $x^2$ and $x^3$ are both
-polynomials and are thus equivalent *mod* having super-linear growth,
-but $x$ and $x^2$ are not.) In some topological spaces, all loops can be
-deformed into all other loops. In other spaces, which have holes, this
-is not the case: a loop that contains a hole cannot be continuously
-moved, e.g., stretched and pulled like a rubber band, until it has the
-shape of a loop that does *not* contain the hole. So in this way the
-loop classes count the number of holes in a topological space.
+deformed into another, then the loops are considered equivalent *up to
+homotopy*. (In various branches of math, things are sometimes considered
+the same if there is enough shared that it becomes useful to view them
+in that way. A contrived example: the functions $x^2$ and $x^3$ are both
+polynomials and are thus equivalent *up to* (or *mod*) having
+super-linear growth. $x$ and $x^2$ are not equivalent in this sense.) In
+some topological spaces, all loops can be deformed into all other loops.
+In other topological spaces, this is not the case: a loop that contains
+a *hole* cannot be continuously deformed into a loop that does *not*
+contain the hole. So in this way the loop classes count the number of
+holes in a topological space.
 
 The second condition says that we have a reasonable way of combining or
 “adding” loops that cannot be deformed into each other (the equivalence
@@ -135,11 +135,11 @@ estimate parameters of interest, e.g., rates of evolution, by
 super-imposing a stochastic model of evolution (e.g., Brownian motion)
 on the branches of the tree(s) relating contemporary species. It can be
 argued that the functorality of the phylogeny is what makes comparative
-methods work (i.e., the reason we can estimate evolutionary parameters
-of interest). Similarly, one can recast phylogenetic reconstruction as a
-functor inference problem: the goal of tree reconstruction is to learn
-the mapping between information in species X and Y that comparative
-methods use in the first place.
+methods work (i.e., the reason we can estimate evolutionary parameters).
+Similarly, one can recast phylogenetic reconstruction as a functor
+inference problem: the goal of tree reconstruction is to learn the
+mapping between information in species X and Y that comparative methods
+use in the first place.
 
 Is phylogeny reconstruction functor inference? (For that matter, what
 *isn’t* functor inference?) Is the Kingman coalescent, a widely used
