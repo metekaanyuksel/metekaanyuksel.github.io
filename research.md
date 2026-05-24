@@ -31,4 +31,4 @@ My other main scientific interest is **virus evolution and emergence**. RNA viru
 
 [^2]: In fact, there is a remarkable experiment showing that the gene, PRDM9, that determines where recombination occurs on the genome (i.e., the set of recombination _hotspots_) in many vertebrates underlies the formation of different species to begin with 😱.
 
-[^3]: And there happens to be a paper to this end [on bioRxiv](https://www.biorxiv.org/content/10.1101/2025.10.01.679867v1)!
+[^3]: And there happens to be a paper to this end [on bioRxiv](https://www.biorxiv.org/content/10.1101/2025.10.01.679867v2)!

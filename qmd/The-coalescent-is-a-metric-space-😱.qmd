@@ -1,0 +1,7 @@
+---
+title: "The coalescent is a metric space 😱"
+format:
+  md:
+    variant: gfm
+---
+

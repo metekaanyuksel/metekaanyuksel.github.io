@@ -1,0 +1,6 @@
+---
+title: "A locus is whatever you want it to be"
+format:
+  md:
+    variant: gfm
+---

@@ -8,20 +8,23 @@ CATEGORY="musings"
 mkdir -p "$POSTS_DIR"
 
 for file in "$QMD_DIR"/*.qmd; do
+  base=$(basename "$file" .qmd)
+
+  # Skip files without a date prefix (YYYY-MM-DD)
+  if [[ ! "$base" =~ ^[0-9]{4}-[0-9]{2}-[0-9]{2}- ]]; then
+    echo "Skipping $file (no date prefix)..."
+    continue
+  fi
+
   echo "Rendering $file to markdown..."
 
   # Render .qmd to .md
   quarto render "$file" --to md
 
-  base=$(basename "$file" .qmd)
-
-  # Extract date and title from filename if formatted like YYYY-MM-DD-title.qmd
+  # Extract date and title from filename
   if [[ "$base" =~ ^([0-9]{4}-[0-9]{2}-[0-9]{2})-(.*)$ ]]; then
     date="${BASH_REMATCH[1]}"
     raw_title="${BASH_REMATCH[2]}"
-  else
-    date=$(date +%Y-%m-%d)
-    raw_title="$base"
   fi
 
   title=$(echo "$raw_title" | sed 's/-/ /g')
