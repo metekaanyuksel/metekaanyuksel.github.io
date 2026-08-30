@@ -7,7 +7,7 @@ main_nav: true
 
 <img src="/assets/birdmath.jpg" style="width: 100%; max-width: none; margin-bottom: 40px;">
 
-- **Yuksel, M.**^, Morales-Lopez, T.^, Deraje, P., Tuffaha, M., & Wahl, L. Fixation probabilities for modifiers of the mutation rate and spectrum. In prep.
+- **Yuksel, M.**^, Morales-Lopez, T.^, Deraje, P., Tuffaha, M., & Wahl, L. The joint evolution of the mutation rate and spectrum in asexual populations. In prep.
 - **Yuksel, M.**^, Deraje, P.^, Osmond, M. M.* & Mideo, N.* A null model for the evolution of the recombination landscape. In prep.
 - **Yuksel, M.** & Mideo, N. (2026). [Host jumps need not be common just because spillover is.](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003682) _PLoS Biology_. (Primer for "Primer for "Pathogen host jump risk is not predicted by spillover rate, but rather by novelty" by Simony & Kennedy).
 - **Yuksel, M.**, Qiqi, Y., Osmond, M. M.* & Mideo, N.* (2025). [Host constraints on viral recombination and emergence.](https://www.biorxiv.org/content/10.1101/2025.10.01.679867v2) In revision at _Proceedings of the Royal Society B_.
