@@ -108,6 +108,18 @@
 	
 
 	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
 	<li class="nav-link"><a href="/blog/">Blog</a>
 	
 
@@ -117,6 +129,8 @@
 
 	
 	<li class="nav-link"><a href="/research/">Research</a>
+	
+
 	
 
 	
@@ -194,17 +208,17 @@ properties.</li>
 </ol>
 
 <p>The first condition just means that, if one loop can be continuously
-deformed into another, then the loops are considered the same. This is
-common: in various branches of math, things are considered the same if
-there is enough shared that it becomes convenient to view them in that
-way. (A contrived example: the functions $x^2$ and $x^3$ are both
-polynomials and are thus equivalent <em>mod</em> having super-linear growth,
-but $x$ and $x^2$ are not.) In some topological spaces, all loops can be
-deformed into all other loops. In other spaces, which have holes, this
-is not the case: a loop that contains a hole cannot be continuously
-moved, e.g., stretched and pulled like a rubber band, until it has the
-shape of a loop that does <em>not</em> contain the hole. So in this way the
-loop classes count the number of holes in a topological space.</p>
+deformed into another, then the loops are considered equivalent <em>up to
+homotopy</em>. (In various branches of math, things are sometimes considered
+the same if there is enough shared that it becomes useful to view them
+in that way. A contrived example: the functions $x^2$ and $x^3$ are both
+polynomials and are thus equivalent <em>up to</em> (or <em>mod</em>) having
+super-linear growth. $x$ and $x^2$ are not equivalent in this sense.) In
+some topological spaces, all loops can be deformed into all other loops.
+In other topological spaces, this is not the case: a loop that contains
+a <em>hole</em> cannot be continuously deformed into a loop that does <em>not</em>
+contain the hole. So in this way the loop classes count the number of
+holes in a topological space.</p>
 
 <p>The second condition says that we have a reasonable way of combining or
 “adding” loops that cannot be deformed into each other (the equivalence
@@ -214,12 +228,13 @@ added: given two loops $f_1$ and $f_2$, move on the topological space
 according to $f_1$ at twice the usual speed, and then do the same thing
 but according to $f_2$. This defines a new loop
 $f_3 = f_2 \circ f_1 \colon [0,1] \to X$ which starts at $f_1(0) = x_0$,
-returns to this point ($f_1(1/2) = f_2(1/2) = x_0$, and ends at
+returns to this point (that is, $f_1(1/2) = f_2(1/2) = x_0$, and ends at
 $f_2(1) = x_0$. One can show that $\circ$ defines a group operation on
 the space of loop classes. In particular, $\circ$ is associative, the
 “identity” loop ($f(t) = x_0$ for all $t$) is such that
 $f_1 \circ f = f_1$ for all $f_1$, and for any loop class $f_1$ there is
-an “inverse” loop $f_1^{-1}$ defined by running $f_1$ in reverse.</p>
+an “inverse” loop $f_1^{-1} = f_1(1-t)$ defined by running $f_1$ in
+reverse.</p>
 
 <h3 id="whats-the-point">What’s the point?</h3>
 
@@ -279,19 +294,20 @@ processes on that scaffold must have operated. To what extent those
 molecules even capture the irreducible essence of individuals is
 another, thornier matter.</p>
 
-<p>So, if species make for categories and genealogies make for arrows,
-<strong>what are the functors which relate categories in a
-structure-preserving way? An obvious answer is the phylogeny, the full
-history of descent giving rise to present-day lineages.</strong> It is arguably
-through this object that most inference of evolutionary phenomena is
-made. Comparative methods let us estimate parameters of interest, such
-as the rate of evolution of body size, by super-imposing a model of
-evolution (e.g., Brownian motion) on the branches of trees relating
-contemporary species. This is a functorial process: take what you know
-about one species. Understanding of how life on Earth came to be is
-filtered, at least in some circles, through reconstruction of the
-history of the species that we see in the present day and the molecular
-and phenotypic differences that separate them.</p>
+<p>So, if species are categories and genealogies are arrows, <strong>what are the
+functors which relate the categories in a structure-preserving way? An
+obvious answer is the phylogeny, the full history of descent giving rise
+to present-day lineages.</strong> It is arguably through this object that most
+inference of evolutionary processes is made. Comparative methods let us
+estimate parameters of interest, e.g., rates of evolution, by
+super-imposing a stochastic model of evolution (e.g., Brownian motion)
+on the branches of the tree(s) relating contemporary species. It can be
+argued that the functorality of the phylogeny is what makes comparative
+methods work (i.e., the reason we can estimate evolutionary parameters).
+Similarly, one can recast phylogenetic reconstruction as a functor
+inference problem: the goal of tree reconstruction is to learn the
+mapping between information in species X and Y that comparative methods
+use in the first place.</p>
 
 <p>Is phylogeny reconstruction functor inference? (For that matter, what
 <em>isn’t</em> functor inference?) Is the Kingman coalescent, a widely used
@@ -300,7 +316,7 @@ the arrows relating individuals in a category? Is its universality a
 reflection of its robustness across categories? It is not difficult to
 see how some of the theorizing breaks down, analogizing devolves into
 abstract nonsense, and mathematical models and biology become conflated.
-But I think the categorical perspective provides, at a minimum, food for
+But I do think the categorical perspective provides interesting food for
 thought.</p>
 
 </article>
@@ -351,6 +367,18 @@ thought.</p>
 	
 
 	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
 	<li class="nav-link"><a href="/blog/">Blog</a>
 	
 
@@ -360,6 +388,8 @@ thought.</p>
 
 	
 	<li class="nav-link"><a href="/research/">Research</a>
+	
+
 	
 
 	
