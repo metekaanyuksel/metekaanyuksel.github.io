@@ -1,5 +1,5 @@
 ---
-title: "Some photos from the Nordics"
+title: "Some photos from Scandinavia"
 format:
   md:
     variant: gfm
