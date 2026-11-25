@@ -1,6 +1,0 @@
----
-title: "The need for speed, genome edition"
-format:
-  md:
-    variant: gfm
----

@@ -1,6 +1,0 @@
----
-title: "The ARG is a time series"
-format:
-  md:
-    variant: gfm
----

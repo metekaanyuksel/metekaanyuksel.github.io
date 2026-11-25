@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Some photos from the Nordics"
+title:  "Some photos from Scandinavia"
 date:   2026-09-13
 author: Mete Yuksel
 categories: musings
-cover:  "/assets/posts/Some-photos-from-the-Nordics.jpeg"
+cover:  "/assets/posts/Some-photos-from-Scandinavia.jpeg"
 ---
 
 

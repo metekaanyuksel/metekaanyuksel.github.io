@@ -5,16 +5,28 @@
     <description></description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 13 Sep 2026 12:40:52 -0400</pubDate>
-    <lastBuildDate>Sun, 13 Sep 2026 12:40:52 -0400</lastBuildDate>
+    <pubDate>Wed, 25 Nov 2026 10:47:36 -0500</pubDate>
+    <lastBuildDate>Wed, 25 Nov 2026 10:47:36 -0500</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
     
       <item>
-        <title>Some photos from the Nordics</title>
+        <title>Science Subway Takes</title>
+        <description>&lt;p&gt;For the last two years, I have been keeping a list of my &lt;a href=&quot;https://www.instagram.com/subwaytakes/&quot;&gt;“Subway Takes”&lt;/a&gt;. At the end of every year, I do a “Subway Takes Unwrapped” by analyzing...</description>
+        <pubDate>Wed, 25 Nov 2026 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/musings/2026/11/25/Science-Subway-Takes.html</link>
+        <guid isPermaLink="true">http://localhost:4000/musings/2026/11/25/Science-Subway-Takes.html</guid>
+        
+        
+        <category>musings</category>
+        
+      </item>
+    
+      <item>
+        <title>Some photos from Scandinavia</title>
         <description>&lt;p&gt;&lt;img src=&quot;/assets/posts/copenhagen26-crow.jpeg&quot; width=&quot;100%&quot; height=&quot;600px&quot; /&gt;&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;/assets/posts/oslo1.JPG&quot; width=&quot;100%&quot; height=&quot;600px&quot; /&gt;&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;/assets/posts/bergen_hmmmm.jpg&quot; width=&quot;100%&quot; height=&quot;600px&quot; /&gt;&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;/assets/posts/bergen1.jpeg&quot; width=&quot;100%&quot; height=&quot;600px&quot; /&gt;&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;/assets/posts/bergen2.jpeg&quot; width=&quot;100%&quot; height=&quot;600px&quot; /&gt;&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;/assets/posts/stockholm.jpeg&quot; width=&quot;100%&quot; height=&quot;600px&quot; /&gt;&lt;/p&gt;...</description>
         <pubDate>Sun, 13 Sep 2026 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/musings/2026/09/13/Some-photos-from-the-Nordics.html</link>
-        <guid isPermaLink="true">http://localhost:4000/musings/2026/09/13/Some-photos-from-the-Nordics.html</guid>
+        <link>http://localhost:4000/musings/2026/09/13/Some-photos-from-Scandinavia.html</link>
+        <guid isPermaLink="true">http://localhost:4000/musings/2026/09/13/Some-photos-from-Scandinavia.html</guid>
         
         
         <category>musings</category>

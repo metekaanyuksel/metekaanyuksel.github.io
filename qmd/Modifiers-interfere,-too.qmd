@@ -1,6 +1,0 @@
----
-title: "Modifiers interfere, too"
-format:
-  md:
-    variant: gfm
----
