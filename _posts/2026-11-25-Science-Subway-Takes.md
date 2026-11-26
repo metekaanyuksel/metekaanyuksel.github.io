@@ -23,43 +23,43 @@ thought it would be fun to give these takes a home, emphasizing that
 
 **2025:**
 
--   Selection is just drift for the lucky few.
--   Every fallacy is just a prior.
--   Every trait is function-valued.
--   Urban ecology and evolution is a fad.
--   Theory is the only ethical way to do biology.
--   I’m not alternative, I just experience negative frequency dependent
-    selection.
--   Elliot Sober’s evil twin is Elliot Intoxicated. He thinks species
-    selection is fake.
--   Photos are non-Markov.
+- Selection is just drift for the lucky few.
+- Every fallacy is just a prior.
+- Every trait is function-valued.
+- Urban ecology and evolution is a fad.
+- Theory is the only ethical way to do biology.
+- I’m not alternative, I just experience negative frequency dependent
+  selection.
+- Elliot Sober’s evil twin is Elliot Intoxicated. He thinks species
+  selection is fake.
+- Photos are non-Markov.
 
 **2026:**
 
--   01:27 01/01: The Mathematical Grift must stop. The equations aren’t
-    profound, audiences are just eager for meaning.
--   19:27 06/01: THE WORLD IS NON-MARKOV, I DONT FORGIVE OR FORGET.
--   17:44 09/01: Effective parameters = simulacrum.
--   22:14 29/03: Plasticity is just free will!
--   23:59 15/04: Jumps are real, diffusion is fake.
--   19:04 29/04: There is no correct null.
--   14:47 10/06: The Wright-Fisher model is great but, believe it or
-    not, children do not choose their parents uniformly at random. Only
-    the gullible among us believe this to be true and spend years of our
-    lives deriving approximations to the model in particular regimes.
--   20:15 12/06: Every trait is plastic. You can get any reaction norm
-    you want by just picking the right environments.
--   23:14 20/06: Recombination is more whimsical than mutation.
-    Corollary: antagonism or more whimsical than mutualism.
--   13:13 21/06: Only Andreas Wagner can say evovlability. No one else!
--   02:05 14/07: Bayesianism is a lifestyle. My priors are too diffuse
-    for that nonsense.
--   09:41 15/09: Diploidy is when you are born into a family.
-    Recessivity is when a Black Sheep gets a free ride.
--   21:42 16/09: Selection abuses and uses. It chews you up and spits
-    out and then moves on the next hot new thing.
--   15:47 27/09: I’m not delusional, I’m a mathematical modeler.
--   20:07 19/11: GxE is niche construction.
+- 01:27 01/01: The Mathematical Grift must stop. The equations aren’t
+  profound, audiences are just eager for meaning.
+- 19:27 06/01: THE WORLD IS NON-MARKOV, I DONT FORGIVE OR FORGET.
+- 17:44 09/01: Effective parameters = simulacrum.
+- 22:14 29/03: Plasticity is just free will!
+- 23:59 15/04: Jumps are real, diffusion is fake.
+- 19:04 29/04: There is no correct null.
+- 14:47 10/06: The Wright-Fisher model is great but, believe it or not,
+  children do not choose their parents uniformly at random. Only the
+  gullible among us believe this to be true and spend years of our lives
+  deriving approximations to the model in particular regimes.
+- 20:15 12/06: Every trait is plastic. You can get any reaction norm you
+  want by just picking the right environments.
+- 23:14 20/06: Recombination is more whimsical than mutation. Corollary:
+  antagonism or more whimsical than mutualism.
+- 13:13 21/06: Only Andreas Wagner can say evovlability. No one else!
+- 02:05 14/07: Bayesianism is a lifestyle. My priors are too diffuse for
+  that nonsense.
+- 09:41 15/09: Diploidy is when you are born into a family. Recessivity
+  is when a Black Sheep gets a free ride.
+- 21:42 16/09: Selection abuses and uses. It chews you up and spits out
+  and then moves on the next hot new thing.
+- 15:47 27/09: I’m not delusional, I’m a mathematical modeler.
+- 20:07 19/11: GxE is niche construction.
 
 A couple notes: in 2026 I started recording the time of each take. I
 have also edited one or two of the takes to be a bit less … unmannerly.

@@ -131,6 +131,8 @@
 
 	
 
+	
+
 
       </ul>
     </nav>
@@ -153,34 +155,25 @@
 
 
   <article class="post-content">
-    <p><strong>I use mechanistic mathematical models, genomic data, and computational statistical tools to answer biological questions.</strong></p>
+    <p><strong>I use mechanistic mathematical models, genomic data, and computational statistical tools to answer biological questions.</strong> I am currently spending most of my time thinking about mutation, recombination, and other aspects of genetic architecture, which are usually thought of as inputs to the evolutionary process but are also outputs.</p>
 
 <div style="margin: 40px 0;">
   <img src="/assets/bear.JPG" style="width: 100%; max-width: none;" />
 </div>
 
-<p><br /></p>
+<p>Some questions that have guided or are guiding my work:</p>
 
-<p>One of the subjects I am most interested in right now is the <strong>recombination rate variation</strong><sup id="fnref:1"><a href="#fn:1" class="footnote" rel="footnote" role="doc-noteref">1</a></sup>.</p>
-
-<ul>
+<ol>
   <li>
-    <p>A particularly salient way recombination varies is along genomes. The landscape (i.e., probability distribution) of recombination varies between gametes, individuals, sexes, populations, and species<sup id="fnref:2"><a href="#fn:2" class="footnote" rel="footnote" role="doc-noteref">2</a></sup> and appears to be quite evolutionarily liable. A wealth of data (e.g., from single sperm sequencing in humans and other species) makes it an exciting time to think about variation in recombination at these scales.</p>
+    <p><strong>How does recombination rate variation<sup id="fnref:1"><a href="#fn:1" class="footnote" rel="footnote" role="doc-noteref">1</a></sup> evolve?</strong> Recombination is a key event in meiosis and the life cycles of sexually reproducing species. Yet it varies and evolves in almost every way measured to date. An especially interesting way in which recombination varies is <em>along</em> genomes. The landscape (i.e., distribution) of recombination varies between gametes, individuals, sexes, populations, and species<sup id="fnref:2"><a href="#fn:2" class="footnote" rel="footnote" role="doc-noteref">2</a></sup> and appears to be quite evolutionarily labile. A wealth of data (e.g., from single-sperm sequencing in humans and other species) makes it an exciting time to think about variation in recombination at these scales. I’ve been working on developing theory to understand how the recombination landscape evolves under neutrality (i.e., as modifiers arise, recombine onto various haplotypes depending on the effects they induce, and stochastically drift in frequency) and under background selection (i.e., the influx of new deleterious mutations and the coincident reduction in effective size).</p>
   </li>
   <li>
-    <p>One reason it is difficult to understand the causes and consequences of variation in recombination on the genome is that the phenotype is effectively infinite-dimensional. The recombination landscape on the chromosome is best thought of as a function of genomic location, with co-variances at all pairs of locations that constrain how it can evolve. With Puneeth Deraje, I’ve been working on a mechanistic model that describes how this function evolves under neutrality (i.e., as modifiers arise and drift in frequency). We have shown that, in a finite population, the mean CDF of recombination follows a certain Gaussian process. We are currently using ARGs and comparative data to draw inferences (under this model) about the tempo and mode of landscape evolution, i.e., the manner in which modifiers accumulate.</p>
+    <p><strong>How does viral evolution shape disease emergence?</strong> RNA and ssDNA viruses are so rapidly evolving that, by conventional metrics of the rate of molecular evolution, their genomes should turn over <em>neutrally</em> in $\sim 10^3$ years<sup id="fnref:3"><a href="#fn:3" class="footnote" rel="footnote" role="doc-noteref">3</a></sup>. By <a href="https://www.pnas.org/doi/10.1073/pnas.2206945119">some estimates</a>, the rate of recombination (during co-infection of the same host) is even greater. Isn’t that remarkable! I am interested in understanding how mutation and recombination shape the propensity of viruses to successfully spill over and sustain transmission (i.e., emerge) in novel hosts such as humans<sup id="fnref:4"><a href="#fn:4" class="footnote" rel="footnote" role="doc-noteref">4</a></sup>.</p>
   </li>
-</ul>
-
-<p><br /></p>
-
-<p>I am also quite interested in understanding <strong>virus evolution and emergence</strong>. RNA viruses are so rapidly evolving that, by conventional metrics of the rate of molecular evolution, their genomes should turnover <em>neutrally</em> in $\sim 10^3$ years. By some estimates, the rate of recombination (during co-infection of the same host) is even greater. Isn’t that remarkable! I am interested in understanding how viral mutation and recombination shape the propensity of the pathogen to successfully spillover and sustain transmission (i.e., emerge) in humans<sup id="fnref:3"><a href="#fn:3" class="footnote" rel="footnote" role="doc-noteref">3</a></sup>. I am also very interested in how, as phenotypes, viral mutation and recombination rates vary and evolve.</p>
-
-<ul>
-  <li>Although we know recombination and reassortment are common in RNA viruses and of concern for human health, the <em>evolution</em> of these process is not particularly well-understood. An especially interesting alternative to the idea reassortment evolved to shuffle genetic material is that it is a necessary byproduct of the segmented nature of some viral genomes, which evolved because it allows finer control over gene expression. Weighing the shuffling and gene expression control hypotheses is a problem I am very interested in.</li>
-</ul>
-
-<p><br /></p>
+  <li>
+    <p><strong>What are the limits to inference under evolving genetic architecture?</strong> When we do inference from genetic data, we infer historical processes that are compatible with patterns of present-day variation. But there is no shortage of evidence that the processes which mold genetic variation (mutation, recombination, selection) can evolve and, in some contexts, quite rapidly. For example, the spread of a beneficial allele in a population remolds the distribution of fitness effects of <em>new</em> mutations; every individual in which the allele occurs is an individual in which the back mutation can now occur. This “depletion” of the distribution of fitness effects has only recently been explored theoretically. With Kuangyi Xu, I have recently shown that depletion of the joint distribution of fitness effects in homozygotes and heterozygotes gives rise to patterns that historically have been used to evaluate various theories for the evolution of dominance. More generally, the fact that genetic architectures evolve (and the mechanisms governing the evolution of architectures themselves evolve) may seriously limit our ability to draw inferences about evolution. I think this is a very exciting frontier of population genetics!</p>
+  </li>
+</ol>
 
 <div class="footnotes" role="doc-endnotes">
   <ol>
@@ -188,10 +181,13 @@
       <p>A great introduction to the subject is <a href="https://www.nature.com/articles/s41576-020-0240-1">this paper</a> by Peñalba and Wolf. <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
     </li>
     <li id="fn:2">
-      <p>In fact, there is a remarkable experiment showing that the gene, PRDM9, that determines where recombination occurs on the genome (i.e., the set of recombination <em>hotspots</em>) in many vertebrates underlies the formation of different species to begin with 😱. <a href="#fnref:2" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+      <p>In fact, there is a remarkable experiment showing that the gene PRDM9, which determines where recombination occurs on the genome (i.e., the set of recombination <em>hotspots</em>) in many vertebrates, underlies <a href="https://www.nature.com/articles/nature16931">the formation of different species</a> to begin with 😱. <a href="#fnref:2" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
     </li>
     <li id="fn:3">
-      <p>And there happens to be a paper to this end <a href="https://www.biorxiv.org/content/10.1101/2025.10.01.679867v2">on bioRxiv</a>! <a href="#fnref:3" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+      <p>This estimate comes from Holmes, <em>The Evolution and Emergence of RNA Viruses</em> (2009), which is probably one of my favorite scientific texts! <a href="#fnref:3" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:4">
+      <p>And there happens to be a paper to this end <a href="https://www.biorxiv.org/content/10.1101/2025.10.01.679867v2">on bioRxiv</a>! <a href="#fnref:4" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
     </li>
   </ol>
 </div>
@@ -240,6 +236,8 @@
 
 	
 	<li class="nav-link"><a href="/research/">Research</a>
+	
+
 	
 
 	

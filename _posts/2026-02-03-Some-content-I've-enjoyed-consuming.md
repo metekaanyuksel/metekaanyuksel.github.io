@@ -142,15 +142,16 @@ the space.
     application of human genetic data is not nearly surprising as it
     should be. Many human genetic datasets have gotten into the hands of
     racist freaks and, in the process, the privacy of study participants
-    compromised. One aspect of the story that did surprise me, however,
-    was that investigators who collected the data to study brain
-    development *did not inform the children or their families of how
-    the data was used*. And it doesn’t end there. The final lines of the
-    article were among the most disturbing: “Within weeks of Mr. Trump
-    taking office, the N.I.H. made a little-noticed revision to the
-    guidelines on access to a large genetic database. Its description of
-    what constituted stigmatizing research no longer included any
-    reference to skin color, ancestry and ethnicity.”
+    compromised. An incredibly troubling part of the story is that
+    investigators who collected the data to study brain development *did
+    not inform the children or their families of how the data was used*.
+    The final lines of the article suggest that research ethics will
+    become increasingly comprimised and a great deal of work will be
+    needed for repair: “Within weeks of Mr. Trump taking office, the
+    N.I.H. made a little-noticed revision to the guidelines on access to
+    a large genetic database. Its description of what constituted
+    stigmatizing research no longer included any reference to skin
+    color, ancestry and ethnicity.”
 
 8.  **[This blog post](https://scottaaronson.blog/?p=9030) about if AI
     leaves space for human flourishing.**
